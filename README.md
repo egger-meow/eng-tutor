@@ -13,6 +13,8 @@ main
     ├── grammar-master.csv     # 六學期文法框架追蹤表
     ├── school-syllabus.md     # 學校課本大綱對照表
     ├── progress-log.md        # 每週進度紀錄範本
+    ├── weekly-material-prompt.md  # 每週教材產生提示詞範本
+    ├── weekly-index.csv       # 每週教材摘要索引（避免週數增加時 token 消耗跟著暴增）
     └── weekly/                # 每週講義存放處（空資料夾）
 
 student/<代稱>          # 每位學生一個分支，根目錄下直接放該生的實際資料
@@ -57,9 +59,19 @@ git checkout -b student/<代稱>
 
 每週上課紀錄範本：複習內容、新文法點、新單字、短文主題、課堂表現、常錯待加強、回家作業、下週預告。
 
+### `weekly-material-prompt.md`
+
+每週產生新教材時使用的提示詞範本與流程說明。核心原則：只讀 `grammar-master.csv`／`vocab-master-2000.csv`／`weekly-index.csv` 這幾份輕量資料來決定本週內容，**不需要打開過去每一週 `weekly/weekXX/` 的完整講義**，避免週數越多、產生新教材要讀的東西越多、token 消耗跟著加速成長。也定義了每週新字的 1200/800 級比例（1200 為主線，800 進階字每週最多 2-3 個，初期更少）。
+
+### `weekly-index.csv`
+
+每週教材的極簡摘要索引（一週一列）：主題、情境哏、對照的文法點、新字級別數量、可延伸的想法、狀態（planned/taught）。產生新一週教材前先讀這份索引即可掌握前面教過什麼、用過什麼情境，不用整份翻舊講義。
+
+欄位：`week,date,article_theme,article_hook,grammar_topic,vocab_1200_count,vocab_800_count,extension_idea,status`
+
 ### `weekly/`
 
-存放每週實際使用的講義檔案（短文、練習題等）。
+存放每週實際使用的講義檔案（短文、練習題等），依 `weekly-material-prompt.md` 的流程產生。
 
 ## 個資保護原則
 
