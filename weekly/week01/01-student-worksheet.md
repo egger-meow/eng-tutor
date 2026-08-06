@@ -84,6 +84,15 @@ Jonathan just joined a new gaming forum. A user named Kevin sends him a message.
 
 ## Part 3：文法練習 Grammar Practice
 
+### 文法小提醒：be動詞後面接什麼？
+
+**be動詞（am/is/are）後面接「名詞」或「形容詞」，用來說明主詞是誰、是什麼、或怎麼樣 —— 不是「受詞」喔！**
+
+| 句型 | 例句 |
+| --- | --- |
+| 主詞 + be動詞 + **名詞** | I am **a student**. / My father is **a cook**. |
+| 主詞 + be動詞 + **形容詞** | It is **so much fun**. / He is very **brave**. |
+
 ### A. 選出正確的 be動詞 (am / is / are)
 
 1. I ______ a student at a middle school.
@@ -106,6 +115,22 @@ Jonathan just joined a new gaming forum. A user named Kevin sends him a message.
 2. My friend am very cool. → ______________________________
 3. We plays games every weekend. → ______________________________
 4. She like anime a lot. → ______________________________
+
+### D. 找一找：be動詞 + 名詞 或 be動詞 + 形容詞
+
+回到 Part 1 短文，找出 3 句「be動詞 + 名詞」和 3 句「be動詞 + 形容詞」，抄下來並圈出接在 be動詞後面的名詞/形容詞。
+
+**be動詞 + 名詞**（例：I am a student.）
+
+1. ______________________________
+2. ______________________________
+3. ______________________________
+
+**be動詞 + 形容詞**（例：It is so much fun.）
+
+1. ______________________________
+2. ______________________________
+3. ______________________________
 
 ---
 

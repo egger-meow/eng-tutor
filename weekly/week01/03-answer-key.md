@@ -34,6 +34,24 @@
 3. We plays games every weekend. → **We play games every weekend.**（we 是複數主詞，動詞不加 -s）
 4. She like anime a lot. → **She likes anime a lot.**（she 是第三人稱單數，動詞要加 -s；此題可作為向下週/後續銜接第三人稱單數的伏筆，不用要求本週完全內化）
 
+### D. 找一找：be動詞 + 名詞 或 be動詞 + 形容詞
+
+開放式找句，只要主詞+be動詞+名詞/形容詞的結構抓對即可，不用完全跟下面範例一樣。文中可用的句子舉例：
+
+**be動詞 + 名詞**
+- I am **a student** at Riverside Middle School.
+- My father is **a cook**.
+- My mother is **a teacher**.
+- My favorite game is **a building game**.
+
+**be動詞 + 形容詞**
+- I am not very **tall**.
+- I am pretty **fast**.
+- He is very **brave**.
+- I am a little **busy** this week.
+
+> 教學提醒：這題的重點是讓 Jonathan 自己發現 be動詞後面接的是名詞/形容詞（說明主詞），不是受詞。如果他抓到 "I am 13 years old" 這種年齡說法，可以視為形容詞用法的延伸（説明主詞的狀態），一樣算對。
+
 ## Part 4：換你說說看
 
 開放式寫作，無標準答案。批改重點：
