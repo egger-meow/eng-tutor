@@ -61,7 +61,7 @@ git checkout -b student/<代稱>
 
 ### `weekly-material-prompt.md`
 
-每週產生新教材時使用的提示詞範本與流程說明。核心原則：只讀 `grammar-master.csv`／`vocab-master-2000.csv`／`weekly-index.csv` 這幾份輕量資料來決定本週內容，**不需要打開過去每一週 `weekly/weekXX/` 的完整講義**，避免週數越多、產生新教材要讀的東西越多、token 消耗跟著加速成長。也定義了每週新字的 1200/800 級比例（1200 為主線，800 進階字每週最多 2-3 個，初期更少）。
+每週產生新教材時使用的提示詞範本與流程說明。核心原則：只讀 `grammar-master.csv`／`vocab-master-2000.csv`／`weekly-index.csv` 這幾份輕量資料來決定本週內容，**不需要打開過去每一週 `weekly/weekXX/` 的完整講義**。每篇依學生實際程度選 7-15 個有學習價值的常用字；文章、題目與例句中最難的字限於本週核心單字，不暗藏未教的更難字。
 
 ### `weekly-index.csv`
 
@@ -71,7 +71,13 @@ git checkout -b student/<代稱>
 
 ### `weekly/`
 
-存放每週實際使用的講義檔案（短文、練習題等），依 `weekly-material-prompt.md` 的流程產生。
+存放每週實際使用的講義檔案（短文、練習題等），依 `weekly-material-prompt.md` 的流程產生。Week 2 起，Student Handout 最後固定加入 vocabulary review Homework；好記的 grammar tips 主要放在 Student Handout，Teacher Guide 保持精簡。
+
+只有 Student Handout 保留 Markdown 並輸出 PDF；Teacher Guide 與 Answer Key 僅保留 Markdown。PDF 指令：
+
+```bash
+node scripts/build-student-pdf.cjs weekly/week02/01-student-worksheet.md
+```
 
 ## 個資保護原則
 

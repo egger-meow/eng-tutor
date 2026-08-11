@@ -13,6 +13,14 @@ This repository is a reusable English-tutoring curriculum template. Repository-r
 
 Keep the template content on `main`. Create a separate `student/<name>` branch for each learner and adapt the root files there.
 
+## Branch Ownership for Reusable Changes
+
+Treat every permanent, reusable rule or tool as template architecture. Make these changes on `main` first, then rebase each affected `student/<name>` branch onto the updated `main`.
+
+Examples include generation prompts and selection rules, shared lesson structure, Student Handout grammar-tip placement, concise Teacher Guide conventions, recurring Homework sections, PDF/export pipeline behavior, reusable scripts, validation rules, and shared documentation.
+
+Keep only learner-specific state and weekly content on `student/<name>` branches, such as the learner profile, taught-word tracking, progress records, and that learner's generated `weekly/weekXX/` materials. Do not implement a reusable convention only inside one student branch merely because the immediate request arose while working on that student.
+
 ## Build, Test, and Development Commands
 
 This is a documentation-and-data repository; it has no build system or automated test suite. Use Git to prepare a student workspace:

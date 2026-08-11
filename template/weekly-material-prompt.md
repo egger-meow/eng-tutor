@@ -27,22 +27,28 @@
 
 1. **對照本 repo 現有資料，不憑空編造**：文法點取自 `grammar-master.csv`（依 `taught` 欄位挑下一個未教的主題，依 semester 順序）；單字取自 `vocab-master-2000.csv`（見下方「單字比例」）；課本實際單元順序對照 `school-syllabus.md`；歷史主題/延伸哏取自 `weekly-index.csv`（只讀這份索引，不讀舊講義全文）。
 2. **貼近學生興趣、生活化**：短文/對話情境要貼合 `student-notes.md` 記錄的興趣，語言使用整體自然情境，避免為了塞文法而寫出不自然的句子。同一個情境哏（如某個虛構角色、某個場景）用過後盡量不要立刻重複，可參考 `weekly-index.csv` 的 `extension_idea` 順勢延續（例如同一角色下週再出現、但帶出新的問題/情境），也可以開全新的情境，兩種都可以，重點是不要跟前幾週雷同到像複製貼上。
-3. **單字比例：1200 字為主線，800 字是點綴**：
-   - 每週新字建議 10-15 個。
-   - 其中 **800 進階字最多 2-3 個**（約占 15-20%），且要自然融入文章情境，不要為了塞進階字而寫出生硬句子。
-   - 剛開學前幾週（或學生剛接觸新單元時）先從 **0-1 個** 800 字試水溫，確認學生 1200 字基礎穩了之後，再逐步增加到 2-3 個。
-   - 800 字優先選跟本週主題/興趣自然相關的詞，而不是隨機挑。
-4. **符合會考(CAP)精神**（參考 [國中教育會考英語科說明](https://cap.rcpet.edu.tw/test4-3.html)）：
+3. **單字以學習價值為準，不以年級標籤壓低難度**：
+   - 每篇文章選 **7-15 個真正值得學的核心單字**；不需硬湊固定數量，也不可把已掌握的基礎字拿來充數。
+   - 先讀 `student-notes.md` 的實際程度校準與 `vocab-master-2000.csv` 的 `taught` 狀態。已確認掌握的字可自然出現在文章中，但不列入正式 vocabulary 額度。
+   - 原則上從常見 2,000 字範圍選擇；主題必要且實用的字可少量列為「延伸字」，並明確註記。
+   - 不為了增加數量塞冷僻字，也不為了年級標籤刻意選太簡單的字。
+4. **文章的難度上限就是本週核心單字**：
+   - 正文中，除專有名詞外，最難的字必須是本週列出的核心單字。其他敘事用字應是學生已掌握或明顯更簡單的字。
+   - 不可在正文、題目、選項、例句或 Homework 暗藏比核心單字更難、卻未列入 vocabulary 的字。若某字對故事不可或缺，就把它列為核心單字；否則改寫成更簡單的說法。
+   - 產出前逐字掃描一次：對每個可能不熟的非核心字，確認它已掌握、改成簡單字，或升格為核心單字。猜字題也只能從核心單字出題，不可另外引入未教難字。
+5. **符合會考(CAP)精神**（參考 [國中教育會考英語科說明](https://cap.rcpet.edu.tw/test4-3.html)）：
    - 趣味化、實用化、多元化、生活化；評量內容為基本、核心、重要的概念。
    - 涵蓋日常交談、社交應對、教室用語等一般人際溝通情境。
    - 字彙以基礎 1200 字為主，文法為國中基礎文法句構。
    - 語言使用重視整體自然情境，不是零碎、片斷的記憶。單題可測字彙+語法，但要放在自然語境的句子/短對話中，不要孤立的文法填空。
    - 閱讀理解要涵蓋細節（detail）、推論（inference）、猜字（guessing from context）、主旨（main idea）四種理解層次。
-5. **在符合以上精神下，最大自由地貼合學生興趣發揮**：故事、角色、情境可以自由發想（例如遊戲、動漫、運動等），只要語言難度、字彙、文法落在該週目標範圍內。
-6. **一次產出三份文件**，各自獨立、用途不同：
-   - **學生版講義**（`NN-student-worksheet.md`）：短文/對話 + 生字表 + 閱讀理解題 + 文法練習題 + 一個貼近興趣的口說/寫作延伸練習。**不附答案**。
-   - **教師版教學指引**（`NN-teacher-guide.md`）：本週教學目標、對照 `student-notes.md` 的課堂結構（複習/新教材/練習應用時間分配；若是第一週或程度確認週，可調整為「破冰與程度確認」）、教學步驟與提示語、易錯點與教學建議、如何延伸討論學生興趣。
-   - **答案與詳解**（`NN-answer-key.md`）：學生版講義所有題目的答案，並附簡短說明（為什麼選這個答案／常見錯誤）。
+6. **在符合以上精神下，最大自由地貼合學生興趣發揮**：故事、角色、情境可以自由發想（例如遊戲、動漫、運動等），只要語言難度、字彙、文法落在該週目標範圍內。
+7. **一次產出三份文件**，各自獨立、用途不同：
+   - **學生版講義**（`NN-student-worksheet.md`）：完整文章 + 生字表 + 閱讀理解 + 文法規則與真正好記的 pattern／快速判斷／混淆比較 + 文法練習 + 口說互動 + Homework vocabulary review quiz。課堂應能直接沿著這份講義教到底。**不附答案**。
+   - **教師版教學指引**（`NN-teacher-guide.md`）：課前幾分鐘快速掃過的 cheat sheet，只保留流程、各段做法、提醒、可能卡點與必要補充；Teaching Tips 短而重點式，不重複學生講義的完整內容。
+   - **答案與詳解**（`NN-answer-key.md`）：學生版所有題目及 Homework 的完整答案，附必要的短說明。
+8. **Homework 從 Week 2 起固定加入**：以本週 7-15 個核心單字為範圍，混合意思選擇、matching、context fill-in、簡單選字與適量翻譯。目標是數天後的 retrieval practice，不重新教單字，也不突然提高難度。
+9. **PDF 只輸出學生講義**：Student Handout 產生 Markdown + PDF；Teacher Guide 與 Answer Key 僅產生 Markdown。Student PDF 必須包含最後的 Homework。
 
 ## 提示詞範本
 
@@ -55,7 +61,7 @@
 - weekly-index.csv（看過去每週的主題/情境哏/延伸想法，避免重複、可考慮延續）
 
 本週文法點：取 grammar-master.csv 中 taught=no 的下一個主題（依學期順序）。
-本週新單字：取 vocab-master-2000.csv 中 taught=no 的字，共 10-15 個，其中 800 級最多 2-3 個（初期可先 0-1 個），其餘為 1200 級，主題盡量貼合本週文法與學生興趣。
+本週核心單字：依 student-notes.md 的實際程度，從 vocab-master-2000.csv 中 taught=no 的字選 7-15 個真正有學習價值的常用字；已掌握的基礎字不計額度。必要時可少量加入主題相關的實用延伸字並註記。
 對照 school-syllabus.md 的實際課本單元順序，確認進度合理。
 對照 weekly-index.csv，確保本週情境哏不要跟前幾週重複，可延續之前記錄的 extension_idea。
 
@@ -64,11 +70,11 @@
 2. [NN]-teacher-guide.md（教師教學指引）
 3. [NN]-answer-key.md（答案與詳解）
 
-內容需符合會考(CAP)精神：生活化、自然語境、涵蓋細節/推論/猜字/主旨四種閱讀理解層次。
+內容需符合會考(CAP)精神：生活化、自然語境、涵蓋細節/推論/猜字/主旨四種閱讀理解層次。文章、題目與例句中最難的字必須限於本週核心單字；不可暗藏更難的非核心字。學生講義加入可直接教的 grammar pattern／快速判斷與 Homework，教師指引保持精簡，答案檔包含 Homework 完整答案。
 在此原則下，盡量貼合學生興趣自由發揮情境與角色。
 
 完成後：
-- 三份 markdown 轉成可列印的 PDF。
+- 只把學生講義 markdown 轉成可列印的 PDF，並確認 Homework 包含在最後；Teacher Guide 與 Answer Key 不產生 PDF/HTML。
 - 在 weekly-index.csv 新增一列本週紀錄（week/article_theme/article_hook/grammar_topic/vocab_1200_count/vocab_800_count/extension_idea/status=planned，date 留空）。
 - 更新 grammar-master.csv、vocab-master-2000.csv 中本週教過項目的 taught/week_taught 欄位（於實際上課後才更新，不要在產生教材當下就標記已教）。
 - 依 progress-log.md 格式新增本週紀錄、並把 weekly-index.csv 該列 status 改成 taught、補上 date（於實際上課後才做）。
@@ -80,7 +86,7 @@
 weekly-index.csv                  ← 每週摘要索引，每次產生新教材前只讀這份
 weekly/
   week[NN]/
-    [NN]-student-worksheet.md   (+ .pdf，供列印給學生)
-    [NN]-teacher-guide.md       (+ .pdf，供教師列印參考)
-    [NN]-answer-key.md          (+ .pdf)
+    [NN]-student-worksheet.md   (+ .pdf，含 Homework，供列印給學生)
+    [NN]-teacher-guide.md       (Markdown only)
+    [NN]-answer-key.md          (Markdown only)
 ```
