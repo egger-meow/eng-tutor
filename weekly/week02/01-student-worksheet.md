@@ -7,19 +7,19 @@
 
 ## Part 1：Reading - From a Small Project to Minecraft
 
-Today, millions of people know Minecraft, but it began as one person's small **project**.
+Many people know Minecraft today, but it began as one small **project**.
 
-Markus Persson, better known as “Notch,” grew up in Sweden. He became interested in computers when he was young and learned to **program**. Later, he worked as a game developer, but he also enjoyed making his own games in his free time. He wanted to **create** a world where people could build, explore, and make their own choices.
+Markus Persson, or “Notch,” lived in Sweden. He liked computers when he was a child, so he learned to **program**. When he was older, he made games at work. He also made his own games at home. He wanted to **create** a game where people could build anything.
 
-In May 2009, Notch started working on an early version of Minecraft. At first, he called it “Cave Game.” It looked very **simple**. The world had grass, stone, and blocky land. There were no villages, redstone machines, or Ender Dragons. In the earliest version, a **player** could not even place or break blocks yet.
+In May 2009, Notch started a new game. At first, he called it “Cave Game.” It was very **simple**. It had grass, stone, and blocks. A **player** could move around and look at the block world, but there was not much to do.
 
-Notch did not wait until the game was perfect. He decided to **share** an early version online. People could **test** it while he was still building it. They wrote comments about what they enjoyed and what did not work. This **feedback** gave Notch useful information. Some players also **suggested** ideas for the game.
+Notch did not wait to finish the game. He chose to **share** it online. People could **test** the game as he made it. They told him what they liked and what was wrong. This **feedback** helped Notch. Some players also **suggested** new ideas.
 
-Notch read their messages and worked quickly. He used some ideas, fixed problems, and tried to **improve** the game. He added more blocks and new ways to explore. Because players saw the game changing, they wanted to return and see what was new. They also told their friends about it.
+Notch read what the players wrote. He fixed problems and used some of their ideas to **improve** the game. He added more blocks and more things to do. The game changed often, so players came back to see what was new. They also told their friends about it.
 
-The small project became more **popular**, so Notch decided to **continue** working on it. As it grew, he helped start a **company** called Mojang to support the game. Minecraft kept gaining new features, players, and communities around the world. Its full version arrived in 2011.
+The small project became **popular**. Notch chose to **continue** his work, and he helped start a **company** called Mojang. More and more people played Minecraft. In 2011, the full game was ready.
 
-Minecraft did not become famous because it was perfect on day one. It grew because one creator shared an unfinished idea, listened to players, and kept making it better. A simple block world became a place where millions of people could create stories of their own.
+Minecraft grew because Notch shared it early, listened to players, and continued to make it better. One simple idea became a game known around the world.
 
 ### Core Vocabulary 核心單字
 
@@ -28,9 +28,9 @@ Minecraft did not become famous because it was perfect on day one. It grew becau
 | 1 | program | v. | 編寫程式 | Notch learned to program when he was young. |
 | 2 | project | n. | 專案；計畫 | Minecraft began as a small project. |
 | 3 | create | v. | 創造；製作 | He wanted to create a new world. |
-| 4 | simple | adj. | 簡單的；簡樸的 | The first version looked simple. |
+| 4 | simple | adj. | 簡單的；簡樸的 | The first game looked simple. |
 | 5 | share | v. | 分享；公開給他人 | Notch shared the game online. |
-| 6 | player | n. | 玩家 | Each player could explore the world. |
+| 6 | player | n. | 玩家 | Each player could build in the world. |
 | 7 | test | v. | 測試 | People tested the early game. |
 | 8 | feedback | n. | 回饋；意見 | Player feedback helped Notch. |
 | 9 | suggest | v. | 建議；提議 | Players suggested new ideas. |
@@ -55,35 +55,35 @@ Minecraft did not become famous because it was perfect on day one. It grew becau
    C. Cave Game  
    D. Stone Project
 
-3. **Detail** Where did Notch share an early version?  
+3. **Detail** Where did Notch share the early game?  
    A. Online  
    B. At his school  
    C. In a book  
    D. On television
 
-4. **Sequence** What happened after players tested the early game?  
-   A. Notch stopped programming.  
+4. **Sequence** What did players do after they tested the early game?  
+   A. They stopped playing all games.  
    B. They gave feedback and suggested ideas.  
-   C. The game immediately had every modern feature.  
-   D. Mojang closed the project.
+   C. They made the full game in one day.  
+   D. They closed the project.
 
-5. **Inference** Why did players keep returning to the game?  
-   A. They wanted to see its changes.  
+5. **Inference** Why did players come back to the game?  
+   A. They wanted to see what was new.  
    B. They had to finish homework there.  
    C. Notch gave every player a computer.  
    D. The game never changed.
 
-6. **Guess from context** In “Minecraft kept **gaining** new features,” what does *gaining* most likely mean?  
-   A. losing  
-   B. hiding  
-   C. getting  
-   D. breaking
+6. **Guess from context** Players told Notch what they liked and what was wrong. This was their **feedback**. What does *feedback* mean?  
+   A. Things people say to help someone  
+   B. Money for a new game  
+   C. A name for a player  
+   D. A computer at work
 
 7. **Author's message** Which lesson best matches the ending?  
-   A. Never show anyone unfinished work.  
-   B. Good ideas cannot begin simply.  
-   C. Listening and improving can help an idea grow.  
-   D. A famous project needs no feedback.
+   A. Never share your work.  
+   B. A simple idea cannot become popular.  
+   C. Feedback can help a project improve.  
+   D. A popular project needs no players.
 
 ---
 
@@ -97,8 +97,8 @@ Minecraft did not become famous because it was perfect on day one. It grew becau
 | 事情／東西 | **What** | What did he create? | Minecraft. |
 | 地點 | **Where** | Where did he share it? | Online. |
 | 時間 | **When** | When did he start? | In May 2009. |
-| 原因 | **Why** | Why did players return? | Because the game changed. |
-| 方法／過程 | **How** | How did it improve? | Through testing and feedback. |
+| 原因 | **Why** | Why did players come back? | Because the game changed. |
+| 方法／過程 | **How** | How did it improve? | Players tested it and gave feedback. |
 
 > **快速口訣：人 Who、事 What、地 Where、時 When、原因 Why、方法 How。**  
 > 不要先翻中文句子；先想「我缺的是哪一種答案？」
@@ -139,20 +139,20 @@ Minecraft did not become famous because it was perfect on day one. It grew becau
 
 ### A. Choose the best question word
 
-1. ______ created the first version of Minecraft? - Notch.
+1. ______ created the first Minecraft game? - Notch.
 2. ______ did he begin the project? - In May 2009.
-3. ______ did he share the early version? - Online.
-4. ______ did players do after testing it? - They wrote comments.
-5. ______ did Notch read player comments? - To learn what worked and what did not.
-6. ______ did the game improve? - Through testing, feedback, and updates.
+3. ______ did he share the early game? - Online.
+4. ______ did players do after testing it? - They wrote what they liked.
+5. ______ did Notch read the players' words? - To learn what worked and what did not.
+6. ______ did the game improve? - Players tested it and gave feedback.
 
 ### B. Put the words in order
 
 1. did / Where / the game / share / Notch / ?  
    __________________________________________________
-2. did / Why / return / players / ?  
+2. did / Why / come back / players / ?  
    __________________________________________________
-3. the first version / was / What / like / ?  
+3. the first game / was / What / like / ?  
    __________________________________________________
 4. Minecraft / Who / created / ?  
    __________________________________________________
@@ -161,14 +161,14 @@ Minecraft did not become famous because it was perfect on day one. It grew becau
 
 1. How did Minecraft became popular?  
    __________________________________________________
-2. Who did create the first version?  
+2. Who did create the first game?  
    __________________________________________________
 3. When Notch did start the project?  
    __________________________________________________
 
 ---
 
-## Part 5：Speaking - Interview a Minecraft Creator
+## Part 5：Speaking - Ask Notch About Minecraft
 
 想像同學做了一個新的 Minecraft 世界。輪流當記者與創作者，用六個疑問詞各問一題。
 
@@ -196,22 +196,22 @@ Minecraft did not become famous because it was perfect on day one. It grew becau
 
 `program`　`simple`　`player`　`test`　`feedback`
 
-5. Before releasing the app, we need to ______ it.  
-6. The instructions are short and ______, so everyone understands them.  
-7. A game ______ controls a character on the screen.  
-8. Her helpful ______ showed me how to make my work better.  
-9. People learn languages such as Python to ______ computers.
+5. We need to ______ a new game before other people use it.  
+6. This game has only three steps, so it is ______.  
+7. Every ______ can build a house in Minecraft.  
+8. Players gave Notch ______ about the game.  
+9. Notch learned to ______ computers.
 
 ### C. Choose the best answer
 
 10. If you **suggest** an idea, you ______.  
-    A. give someone an idea　B. forget an idea　C. hide a problem
+    A. tell someone your idea　B. forget your idea　C. stop your work
 
 11. If a video becomes **popular**, it ______.  
-    A. is enjoyed by many people　B. has no viewers　C. disappears
+    A. is liked by many people　B. has no players　C. is not online
 
-12. Notch decided to **continue** the project. This means he decided to ______.  
-    A. stop it　B. keep working on it　C. sell his computer
+12. Notch wanted to **continue** the project. This means he wanted to ______.  
+    A. stop it　B. keep working on it　C. start a new project
 
 ### D. Translate
 

@@ -6,9 +6,9 @@
 2. **C** - 第三段指出最初名稱是 “Cave Game.”
 3. **A** - 第四段說他把早期版本分享到網路上。
 4. **B** - 玩家測試後寫下意見並提出想法。
-5. **A** - 遊戲一直改變，玩家想回來看看新內容。
-6. **C** - `gaining new features` 在此指「得到／增加新功能」。
-7. **C** - 結尾強調分享、聆聽與持續改進讓簡單想法成長。
+5. **A** - 遊戲常有改變，玩家想回來看看有什麼新內容。
+6. **A** - 前一句的「告訴 Notch 喜歡什麼、哪裡有問題」就是 `feedback`。
+7. **C** - 結尾強調玩家回饋幫助 Notch 持續改進作品。
 
 ## Part 4：Grammar Practice
 
@@ -24,14 +24,14 @@
 ### B. Put the words in order
 
 1. **Where did Notch share the game?**
-2. **Why did players return?**
-3. **What was the first version like?**
+2. **Why did players come back?**
+3. **What was the first game like?**
 4. **Who created Minecraft?**
 
 ### C. Find and fix the mistake
 
 1. **How did Minecraft become popular?** - `did` 後用原形 `become`。
-2. **Who created the first version?** - `Who` 是動作者時直接接動詞。
+2. **Who created the first game?** - `Who` 是動作者時直接接動詞。
 3. **When did Notch start the project?** - `did` 放在主詞 Notch 前面。
 
 ## Part 5：Speaking

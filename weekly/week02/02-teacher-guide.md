@@ -32,7 +32,7 @@
 
 ## Quick Answer Notes
 
-- Reading：1B, 2C, 3A, 4B, 5A, 6C, 7C。
+- Reading：1B, 2C, 3A, 4B, 5A, 6A, 7C。
 - Grammar A：Who, When, Where, What, Why, How。
 - Homework 完整答案見 `03-answer-key.md`。
 
