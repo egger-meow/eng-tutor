@@ -6,7 +6,7 @@ Recalibrate the curriculum to Jonathan's demonstrated level, preserve the establ
 
 ## Curriculum Decision
 
-Week 2 will teach `Who / What / Where` questions. Although `grammar-master.csv` lists nouns and articles immediately after the broad present-tense row, both the Week 1 teacher guide and `weekly-index.csv` explicitly preview `Who / What / Where` for the next lesson. Those Week 1 artifacts are the clearest existing Week 2 plan, so they take precedence for this package. The master grammar sequence will remain intact; generating Week 2 material will not mark its grammar as taught before the lesson occurs.
+Week 2 will teach the complete `5W1H` question-word set: `Who / What / Where / When / Why / How`. Although `grammar-master.csv` lists nouns and articles immediately after the broad present-tense row, the Week 1 teacher guide and `weekly-index.csv` explicitly preview question words for the next lesson, while `school-syllabus.md` defines that unit as the broader `What / Who / Where / When / How` sequence. The Week 1 preview is therefore treated as examples rather than a three-word limit, and `Why` is included to complete the practical 5W1H set. The master grammar sequence will remain intact; generating Week 2 material will not mark its grammar as taught before the lesson occurs.
 
 ## Learner and Vocabulary Calibration
 
@@ -25,7 +25,7 @@ Create the existing three-file package under `weekly/week02/`:
 2. `02-teacher-guide.md`: a concise pre-class cheat sheet covering lesson flow, attention points, likely difficulties, and brief teaching cues.
 3. `03-answer-key.md`: complete answers and short explanations for all closed exercises, including homework.
 
-The story will avoid deep technical detail and encyclopedia-style exposition. It will use the Week 2 question grammar naturally and feature 7–15 core words chosen from the tracked common vocabulary where possible.
+The story will avoid deep technical detail and encyclopedia-style exposition. It will use 5W1H naturally and feature 7–15 core words chosen from the tracked common vocabulary where possible.
 
 ## Student Handout Flow
 
