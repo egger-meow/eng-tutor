@@ -20,7 +20,6 @@
 
 - **人 Who、事 What、地 Where、時 When、原因 Why、方法 How。**
 - 先遮住題目的疑問詞，只看答案，請學生判斷「答案是哪一類」。
-- `Who` 若直接問動作者，用 `Who + 動詞`：`Who created Minecraft?`（不需加助動詞 `did`）。
 - 最易混淆：`Why` 要原因；`How` 要方法。`When` 是時間；`Where` 是地點。
 
 ---
@@ -54,14 +53,28 @@
 
 > 💡 **過去式優勢：** 過去式的 `did` 最簡單，不管主詞是誰，通通統一用 `did`！
 
-### 4. 關鍵規則：吸血鬼／過去式能量還原（照妖鏡）
+### 4. 關鍵規則：問「主詞」不用加 do/did（Who/What 核心法則）
 
-- **規則：** `did` 已經吸收了「過去式」的能量，後面搭配的主要動詞**必須還原成原形動詞（Base Form）**。
+這不是 `Who` 的特例，而是**「疑問詞本身就在當主詞」**的文法規則！
+
+* **問句把「主詞」問掉了 ➔ 不用加 do / does / did（順序跟肯定句一樣）**
+  - 誰做的？: *Who ate my cake?* (Who 就是主詞 ➔ 不用 did)
+  - 誰創造了 Minecraft？: *Who created Minecraft?* (Who 就是主詞 ➔ 不用 did)
+  - 什麼事發生了？: *What happened?* (What 就是主詞 ➔ 不用 did)
+
+* **主詞還在（問受詞/動作對象） ➔ 必須加 do / does / did**
+  - 你邀請了誰？: *Who **did** **you** invite?* (**you** 是主詞 ➔ 要 did)
+  - 你吃了什麼？: *What **did** **you** eat?* (**you** 是主詞 ➔ 要 did)
+  - Minecraft 什麼時候變有名的？: *When **did** **Minecraft** become famous?* (**Minecraft** 是主詞 ➔ 要 did)
+
+### 5. 關鍵規則：吸血鬼／過去式能量還原（照妖鏡）
+
+- **規則：** 當句中有 `did` 時，它已經吸收了「過去式」的能量，後面搭配的主要動詞**必須還原成原形動詞（Base Form）**。
 - **教學比喻：** `did` 就像吸血鬼/吸塵器，把後面動詞的過去式能量吸走了，所以動詞要變回最原始的外貌。
 - ❌ **誤：** *When **did** Minecraft **became** popular?*（重複兩個過去式）
 - ⭕ **正：** *When **did** Minecraft **become** popular?*（`did` + 原形 `become`）
 
-### 5. 肯定句加上 `do / did` ＝「強調語氣」（Emphatic）
+### 6. 肯定句加上 `do / did` ＝「強調語氣」（Emphatic）
 
 - 一般肯定句本來不需要 `do / does / did`，但若硬加在一般動詞前面，中文意思就是**「真的有…」、「確實有…」**。
   - **一般敘述：** *Notch created Minecraft.*（Notch 創造了 Minecraft。）
@@ -69,7 +82,7 @@
 - 💡 **課堂應用情境：** 當有人懷疑你，或是你要語氣堅定地反駁對方時使用。  
   *(例如： “You didn't do your homework!” ➔ “I **did** do my homework!” 我真的有寫！)*
 
-### 6. 回答裡的 `do / did` 邏輯
+### 7. 回答裡的 `do / did` 邏輯
 
 - **簡答 (Short Answer) ➔ 需要 `did`：**
   - 對應 Yes/No 問句的助動詞，並代替後面的整串動詞。
