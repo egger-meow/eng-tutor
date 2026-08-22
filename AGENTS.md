@@ -37,6 +37,19 @@ Before committing, review Markdown changes for clarity and inspect CSV files for
 
 Write concise Markdown with descriptive headings and fenced code blocks for examples. Preserve the existing CSV column order and header spelling. Use lowercase, hyphenated filenames; name weekly folders `week01`, `week02`, and so on. Record Boolean-style tracking fields consistently (for example, `taught`) and use the relevant week number in `week_taught`.
 
+## Strict Vocabulary Ceiling & Text Difficulty Rules
+
+1. **The Core Vocabulary is the Absolute Hard Ceiling**:
+   - In any generated student worksheet (reading texts, comprehension questions, answer options, grammar explanation examples, speaking prompts, and homework), the **MOST DIFFICULT** words must be the 7-15 Core Vocabulary words chosen for that week.
+   - Every other non-core word MUST be a simple, basic elementary word that the learner has already mastered (e.g. basic 1200 high-frequency words like `man`, `water`, `home`, `help`, `see`).
+2. **Zero Tolerance for Hidden Advanced Words**:
+   - Do NOT introduce unlisted medium/hard words (such as `demonstration`, `suspicious`, `apprentice`, `herbal`, `jealous`, `sacred`, `shrine`, `unarmed`, `desire`, etc.) anywhere in the passage or questions.
+   - If a specific concept is essential for the story, you MUST either:
+     - (a) Explicitly promote it into the Core Vocabulary list (subject to the 7-15 word limit and vocabulary master status), OR
+     - (b) Rewrite it using simple, plain English (e.g., use `show` instead of `demonstration`, `bad stranger` instead of `suspicious stranger`, `student` instead of `apprentice`, `without weapons` instead of `unarmed`).
+3. **Mandatory Word-by-Word Pre-Scan**:
+   - Before finalizing any worksheet, scan every single word in the text and questions against this ceiling rule. If any non-core word feels moderately advanced, replace it with a simpler word immediately.
+
 ## Testing Guidelines
 
 Manually validate all curriculum updates. Confirm that new weekly material matches the selected grammar topic and vocabulary counts in `weekly-index.csv`, then update `progress-log.md` and the matching vocabulary/grammar rows. Do not mark material as taught until it has actually been delivered.
