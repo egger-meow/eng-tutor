@@ -34,28 +34,29 @@ const body = marked.parse(markdown);
 const html = `<!doctype html>
 <html lang="zh-Hant"><head><meta charset="utf-8"><title>${title}</title>
 <style>
-@page { size: A4; margin: 10mm 12mm 12mm; }
+@page { size: A4; margin: 14mm 15mm 15mm; }
 * { box-sizing: border-box; }
-body { font-family: "Microsoft JhengHei", "Noto Sans CJK TC", Arial, sans-serif; color: #172033; font-size: 9.3pt; line-height: 1.35; }
-h1 { color: #173b69; font-size: 16pt; margin: 0 0 4px; padding-bottom: 3px; border-bottom: 2px solid #4f83bd; }
-h2 { color: #173b69; font-size: 11.5pt; margin: 8px 0 4px; padding: 2.5px 6px; border-left: 4px solid #4f83bd; background: #eef5fc; break-after: avoid; }
-h3 { color: #294e78; font-size: 10pt; margin: 6px 0 2px; break-after: avoid; }
-p { margin: 2.5px 0; }
-hr { border: 0; border-top: 1px solid #d8e2ec; margin: 6px 0; }
-blockquote { margin: 5px 0; padding: 6px 10px; border-left: 3.5px solid #4f83bd; background: #f4f8fc; border-radius: 0 4px 4px 0; }
-blockquote p { margin: 2px 0; }
-blockquote h3 { margin: 0 0 3px; }
-pre { margin: 5px 0; padding: 6px 10px; background: #f4f8fc; border: 1px solid #b8d0e8; border-radius: 4px; font-family: "Microsoft JhengHei", "Noto Sans CJK TC", Arial, sans-serif; font-size: 8.8pt; line-height: 1.35; white-space: pre-wrap; word-break: break-word; }
+body { font-family: "Microsoft JhengHei", "Noto Sans CJK TC", Arial, sans-serif; color: #172033; font-size: 10.2pt; line-height: 1.48; }
+h1 { color: #173b69; font-size: 19pt; margin: 0 0 8px; padding-bottom: 6px; border-bottom: 2.5px solid #4f83bd; }
+h2 { color: #173b69; font-size: 13.5pt; margin: 16px 0 8px; padding: 5px 10px; border-left: 5px solid #4f83bd; background: #eef5fc; break-after: avoid; }
+h3 { color: #294e78; font-size: 11.5pt; margin: 12px 0 6px; break-after: avoid; }
+p { margin: 5px 0; }
+hr { border: 0; border-top: 1px solid #c8d5e3; margin: 14px 0; }
+blockquote { margin: 10px 0; padding: 10px 14px; border-left: 4px solid #4f83bd; background: #f4f8fc; border-radius: 0 6px 6px 0; }
+blockquote p { margin: 4px 0; }
+blockquote h3 { margin: 0 0 6px; }
+pre { margin: 10px 0; padding: 12px 15px; background: #f4f8fc; border: 1.5px solid #b8d0e8; border-radius: 6px; font-family: "Microsoft JhengHei", "Noto Sans CJK TC", Arial, sans-serif; font-size: 9.5pt; line-height: 1.5; white-space: pre-wrap; word-break: break-word; }
 pre code { background: none; padding: 0; font-family: inherit; color: inherit; }
-table { width: 100%; border-collapse: collapse; margin: 4px 0 6px; font-size: 8.6pt; }
+table { width: 100%; border-collapse: collapse; margin: 8px 0 12px; font-size: 9.2pt; }
 thead { display: table-header-group; }
-tr, ol > li { break-inside: avoid; }
-th, td { border: 1px solid #a4b6c9; padding: 2.5px 5px; text-align: left; vertical-align: middle; }
+tr { break-inside: avoid; }
+th, td { border: 1px solid #9fb1c5; padding: 4px 8px; text-align: left; vertical-align: top; }
 th { color: #173b69; background: #dfeaf6; font-weight: bold; }
-ol, ul { margin: 2.5px 0 4px; padding-left: 18px; }
-li { margin: 1.5px 0 2.5px; }
-code { font-family: Consolas, monospace; font-size: .9em; padding: 1px 3px; background: #edf1f5; border-radius: 3px; }
+ol, ul { margin: 5px 0 8px; padding-left: 22px; }
+li { margin: 3px 0 5px; }
+code { font-family: Consolas, monospace; font-size: .92em; padding: 1px 4px; background: #edf1f5; border-radius: 3px; }
 strong { color: #102d50; }
+h2:last-of-type { break-before: page; }
 .page-break { break-before: page; }
 </style></head><body>${body}</body></html>`;
 
