@@ -7,52 +7,52 @@
 
 ## Part 1：Reading - The Summer Festival & The Soryu Dojo
 
-### Text A: Edo Town Public Board - Annual Summer Fireworks & Safety Notice
+### Text A: Edo Town Public Board - Summer Fireworks & Safety Notice
 
 ```text
 ========================================================================
              EDO TOWN PUBLIC NOTICE: SUMMER FIREWORKS FESTIVAL
 ========================================================================
-Date: July 20 | Location: Sumida River Bank | Time: 6:00 P.M. - 9:30 P.M.
+Date: July 20 | Place: Sumida River Bank | Time: 6:00 P.M. - 9:30 P.M.
 
 [Festival Events & Schedule]
 * 6:00 P.M. - Opening Street Market & Food Stalls
-* 7:00 P.M. - Martial Arts Demonstration (Soryu Dojo & River Kenjutsu Dojo)
-* 8:00 P.M. - Grand Summer Fireworks Display (over 300 fireworks in the sky!)
+* 7:00 P.M. - Martial Arts Show (Soryu Dojo & River Sword Dojo)
+* 8:00 P.M. - Big Summer Fireworks Show (over 300 fireworks in the sky!)
 
-[Important Community Safety Rules]
-1. Protect the Town Wells: Clean drinking water is precious for every family. 
-   Do not drop any trash near the public water wells. Report any suspicious 
-   stranger around private or neighborhood wells to the local guards.
-2. Large Crowd Safety: A huge crowd of visitors will arrive before sunset. 
-   Please walk with care along the river bridge.
-3. Special Care for Patients: If you have an ill family member or patient, 
-   there is a quiet resting area with herbal medicine and clean water near 
+[Important Town Safety Rules]
+1. Protect the Town Wells: Clean drinking water is important for every family. 
+   Do not drop any trash near the public water wells. If you see a dangerous 
+   stranger near private or neighborhood wells, tell the local guards.
+2. Large Crowd Safety: A big crowd of visitors will arrive before dark. 
+   Please walk with care on the river bridge.
+3. Special Care for Patients: If you have a sick family member or patient, 
+   there is a quiet resting room with clean water and medicine near 
    the East Gate.
 ========================================================================
 ```
 
 ---
 
-### Text B: Soryu Dojo Diary & Conversation Excerpt
+### Text B: Soryu Dojo Record & Conversation
 
-Master Keizo sat in the quiet hall of the Soryu Dojo. Outside, the evening air was **peaceful**, but the streets were already getting busy for the summer **event**. Keizo looked at Hakuji, his young apprentice, who was carefully carrying a bowl of fresh water to the inner room.
+Master Keizo sat in the quiet room of the Soryu Dojo. Outside, the evening air was **peaceful**, but the streets were already getting busy for the summer **event**. Keizo looked at Hakuji, his young student, who was carefully carrying a bowl of fresh water to the bedroom.
 
-"How is Koyuki feeling today, Hakuji?" Keizo asked with a gentle smile.
+"How is Koyuki feeling today, Hakuji?" Keizo asked with a warm smile.
 
-"Her fever is down, Master Keizo," Hakuji replied softly. "She took her morning **medicine**, and she is resting now. The doctor said she needs **strength**, but she will **recover** with good food and quiet care."
+"She is doing better, Master Keizo," Hakuji replied softly. "She took her morning **medicine**, and she is resting now. The doctor said she needs **strength**, but she will **recover** with good food and quiet care."
 
-Keizo nodded. "You have taken great care of my daughter since the day you arrived. When you first came to this town, you fought with everyone because you thought you had nothing to lose. But I saw your true heart. You have great **skill**, but your real power is your desire to **protect** others."
+Keizo nodded. "You have taken great care of my daughter since the day you arrived. When you first came to this town, you fought with everyone because you had no home. But I saw your true heart. You have great **skill**, but your real power is your heart to **protect** others."
 
-Hakuji looked down at his hands. Three years ago, he was alone and angry at the world. Nobody trusted him, and guards in the city punished him for stealing medicine for his sick father. But Master Keizo gave him a home and treated him like a son.
+Hakuji looked down at his hands. Three years ago, he was alone and angry at the world. People called him bad, and town guards stopped him when he tried to get medicine for his sick father. But Master Keizo gave him a home and treated him like a son.
 
-"Master," Hakuji said, "I made a **promise** to Koyuki. When she becomes strong enough to walk outside, I will carry her to the riverbank so we can watch the **fireworks** together."
+"Master," Hakuji said, "I made a **promise** to Koyuki. When she becomes strong enough to walk outside, I will carry her to the river so we can watch the **fireworks** together."
 
-"That is a wonderful promise," Keizo said warmly. "You are like a guardian lion dog guarding a sacred shrine. You always stand as a **guard** for those who are weak." 
+"That is a wonderful promise," Keizo said. "You are like the stone lion dog outside the temple. You always stand as a **guard** for those who are weak."
 
-Keizo then pointed to the town **notice** on the wooden table. "There will be a large **crowd** tonight. Some people from the nearby sword dojo are jealous of our unarmed fighting style. If a **stranger** comes near our gate or our well, stay calm and keep everyone safe."
+Keizo then pointed to the town **notice** on the table. "There will be a large **crowd** tonight. Some people from the nearby sword dojo do not like our hand fighting style. If a **stranger** comes near our gate or our well, stay calm and keep everyone safe."
 
-"I will, Master," Hakuji said firmly. "I will protect this dojo and Koyuki with my life."
+"I will, Master," Hakuji said. "I will protect this dojo and Koyuki with my life."
 
 ---
 
@@ -62,17 +62,17 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 | --- | --- | --- | --- | --- |
 | 1 | protect | v. | 保護；防衛 | He wanted to protect his family from danger. |
 | 2 | promise | n. / v. | 承諾；約定 | Hakuji made a promise to watch the fireworks with Koyuki. |
-| 3 | guard | v. / n. | 守衛；看守；警衛 | A stone lion stands to guard the temple. |
+| 3 | guard | v. / n. | 守衛；看守；警衛 | A stone dog stands to guard the temple. |
 | 4 | medicine | n. | 藥品；藥物 (不可數) | The doctor gave the sick girl some medicine. |
-| 5 | patient | n. / adj. | 病人；有耐心的 | The doctor checked every patient in the clinic. |
+| 5 | patient | n. / adj. | 病人；有耐心的 | The doctor checked every patient in the room. |
 | 6 | peaceful | adj. | 和平的；平靜的 | The village was quiet and peaceful at night. |
 | 7 | notice | n. / v. | 公告；通知；注意到 | Did you read the public notice on the board? |
-| 8 | event | n. | 活動；重大事件 | The fireworks festival is a popular summer event. |
-| 9 | stranger | n. | 陌生人 | Do not talk to a suspicious stranger in the street. |
+| 8 | event | n. | 活動；重要事件 | The fireworks show is a popular summer event. |
+| 9 | stranger | n. | 陌生人 | Do not talk to a bad stranger in the street. |
 | 10 | strength | n. | 力量；力氣 (不可數) | Good food and rest gave him more strength. |
-| 11 | skill | n. | 技巧；技能 | He practiced every day to improve his martial arts skill. |
+| 11 | skill | n. | 技巧；技能 | He practiced every day to improve his fighting skill. |
 | 12 | recover | v. | 康復；恢復 | She rested in bed to recover from her illness. |
-| 13 | crowd | n. | 人群；群眾 | A large crowd gathered to watch the performance. |
+| 13 | crowd | n. | 人群；群眾 | A large crowd gathered to watch the show. |
 | 14 | firework | n. | 煙火 (常用複數 fireworks) | Colorful fireworks lit up the night sky. |
 
 ---
@@ -81,51 +81,51 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 
 1. **Main idea** What is the main purpose of Text A?  
    A. To teach people how to make fireworks  
-   B. To announce the festival schedule and important safety guidelines  
-   C. To sell martial arts weapons to visitors  
-   D. To complain about noisy street markets  
+   B. To announce the festival schedule and important safety rules  
+   C. To sell swords to visitors  
+   D. To close down street markets  
 
-2. **Detail** According to Text A, what should townspeople do if they see a stranger acting strangely near a water well?  
-   A. Invite the stranger into their home for dinner  
-   B. Challenge the stranger to a sword duel  
-   C. Report the person to the local guards  
-   D. Close down the entire summer market immediately  
+2. **Detail** According to Text A, what should people do if they see a dangerous stranger near a water well?  
+   A. Invite the stranger to eat dinner  
+   B. Start a fight with the stranger  
+   C. Tell the local guards  
+   D. Close the East Gate immediately  
 
-3. **Chart / Schedule reading** If a visitor arrives at the riverbank at 7:15 P.M., what event is currently taking place?  
-   A. The opening of street food stalls  
-   B. The Grand Summer Fireworks Display  
-   C. The Martial Arts Demonstration  
+3. **Chart / Schedule reading** If a visitor arrives at the river at 7:15 P.M., what event is happening?  
+   A. The opening of food stalls  
+   B. The Big Summer Fireworks Show  
+   C. The Martial Arts Show  
    D. The cleaning of public wells  
 
 4. **Detail** In Text B, what promise did Hakuji make to Koyuki?  
-   A. To buy her a new sword from the nearby dojo  
+   A. To buy her a new sword  
    B. To carry her to see the fireworks when she gets better  
-   C. To leave the town and travel across the country  
-   D. To open his own medicine shop in the capital  
+   C. To leave the dojo and travel far away  
+   D. To open a medicine shop in the town  
 
-5. **Inference** Why did Master Keizo compare Hakuji to a "guardian lion dog" (shrine guardian)?  
+5. **Inference** Why did Master Keizo compare Hakuji to a temple guard dog?  
    A. Because Hakuji likes to bark at strangers  
-   B. Because Hakuji works at a stone carving shop  
-   C. Because Hakuji has a natural heart to protect and guard the weak  
-   D. Because Hakuji is very fast at running  
+   B. Because Hakuji works at a stone shop  
+   C. Because Hakuji has a true heart to guard and protect the weak  
+   D. Because Hakuji runs very fast  
 
-6. **Guess from context** In Text B, Keizo says: *"The doctor said she needs strength, but she will **recover** with good food and quiet care."* What does **recover** mean here?  
+6. **Guess from context** In Text B, Keizo says: *"The doctor said she needs strength, but she will **recover** with good food and quiet care."* What does **recover** mean?  
    A. Become healthy again after being sick  
-   B. Forget all memories from the past  
+   B. Forget old friends from the past  
    C. Lose money during a trip  
    D. Build a new house by the river  
 
-7. **Cross-text comparison** Based on BOTH texts, why is clean water an important topic in this town?  
-   A. Text A warns people to protect public wells, and Text B shows Hakuji caring for Koyuki with clean water and medicine.  
-   B. Water is only used to put out fires caused by fireworks.  
-   C. The river has completely dried up during the hot summer.  
-   D. Only martial arts masters are allowed to drink well water.  
+7. **Cross-text comparison** Based on BOTH texts, why is clean water important in this town?  
+   A. Text A tells people to protect public wells, and Text B shows Hakuji taking clean water and medicine to Koyuki.  
+   B. People only use water to put out fire from fireworks.  
+   C. The river has no water in the summer.  
+   D. Only dojo masters are allowed to drink well water.  
 
-8. **Tone / Author's perspective** How does Hakuji feel toward Master Keizo and the Soryu Dojo?  
-   A. He feels bored and wants to find a job in the sword dojo.  
-   B. He feels deeply grateful and determined to protect them.  
-   C. He is afraid of Master Keizo's strict rules.  
-   D. He regrets learning unarmed martial arts.  
+8. **Tone / Character** How does Hakuji feel toward Master Keizo and the Soryu Dojo?  
+   A. He feels bored and wants to join the sword dojo.  
+   B. He feels deeply thankful and wants to protect them.  
+   C. He is afraid of Master Keizo.  
+   D. He does not like practicing hand fighting.  
 
 ---
 
@@ -133,18 +133,18 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 
 ### 1. 可數名詞 (Countable) vs 不可數名詞 (Uncountable)
 
-在英文中，名詞能不能「一隻一隻數」決定了它後面的動詞與冠詞！
+在英文中，名詞能不能「一個一個數」決定了它後面的動詞與冠詞！
 
 | 類別 | 特徵 | 常見範例 | 規則口訣 |
 | --- | --- | --- | --- |
 | **可數名詞** (Countable) | 有單數、有複數；單數前要加 `a / an / the`，複數加 `-s / -es` | a guard / two guards<br>an event / three events<br>a doctor / four doctors | 💡 **可數單數不能裸奔！**<br>前面一定要有帽子（a / an / the / my）。 |
-| **不可數名詞** (Uncountable) | 不能加 `-s`，前面**絕對不能**直接加 `a / an`！ | water (水), medicine (藥), strength (力氣), peace (和平), money (金錢) | 💡 **液體、抽象概念、粉末不可數！**<br>❌ a water　❌ medicines (當總稱藥物時) |
+| **不可數名詞** (Uncountable) | 不能加 `-s`，前面**絕對不能**直接加 `a / an`！ | water (水), medicine (藥), strength (力氣), peace (和平), money (金錢) | 💡 **液體、抽象概念不可數！**<br>❌ a water　❌ a strength |
 
 ---
 
 ### 2. 數量詞的搭配（看清楚修飾對象！）
 
-想表達「很多」、「一些」、「很少」時，要根據名詞的可數性挑選正確的字：
+想表達「很多」、「一些」、「很少」時，要看名詞有沒有 `-s`：
 
 | 意思 | 修飾「可數名詞複數」 | 修飾「不可數名詞」 | 兩者皆可通用 |
 | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 ### 3. 冠詞的三大基本功：`a / an` vs `the`
 
 - **`a / an`（不定冠詞）**：表示「任何一個」（第一次提到、未指明哪一個）。
-  - 用 `an` 的時機：字首發音為**母音音標**（/a/, /e/, /i/, /o/, /u/），如 *an event*, *an apple*, *an honest person*。
+  - 用 `an` 的時機：字首發音為**母音音標**（/a/, /e/, /i/, /o/, /u/），如 *an event*, *an apple*, *an old dojo*。
 - **`the`（定冠詞）**：表示「特定那一個」或「雙方都知道的那件事物」。
   - 例：*Hakuji read **a** notice. **The** notice was about the festival.*（第一次提到用 a，第二次指特定那張用 the）。
 
@@ -179,7 +179,7 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 | **There are + 複數名詞** | 兩個以上（有 `-s`） | **There are many people** near the river.（河邊有許多人。） |
 
 > ⚠️ **超常見會考陷阱：**
-> - ❌ *The well has water.* (中文常說「水井有水」，但若指地點存在某物，標準英文為：**There is water in the well.**)
+> - ❌ *The well has water.* (地點存在某物，標準英文用：**There is water in the well.**)
 > - ❌ *There have many people.* (絕對不能把 there 和 have 連在一起用！)
 
 ---
@@ -189,11 +189,11 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 ### A. Choose the best word (Articles & Quantifiers)
 
 1. Master Keizo gave the sick child ______ (a / an / some) medicine.
-2. There are ______ (much / many / a little) food stalls along the river bank.
-3. Hakuji has ______ (a few / a little / much) close friends in the dojo.
-4. We saw ______ (a / an / the) exciting fireworks show yesterday; ______ (a / an / the) show was amazing!
-5. Is there ______ (some / any / a few) water left in the kitchen?
-6. The old dojo has ______ (a lot of / much / an) students practicing karate.
+2. There are ______ (much / many / a little) food stalls near the river.
+3. Hakuji has ______ (a few / a little / much) good friends in the dojo.
+4. We saw ______ (a / an / the) exciting fireworks show; ______ (a / an / the) show was very bright!
+5. Is there ______ (some / any / a few) water left in the room?
+6. The old dojo has ______ (a lot of / much / an) students practicing every day.
 
 ---
 
@@ -202,15 +202,15 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 **填入 `There is` 或 `There are`：**
 1. ____________ a quiet resting room near the East Gate.
 2. ____________ over three hundred fireworks in the summer sky.
-3. ____________ some hot tea and medicine on the table.
-4. ____________ two friendly doctors in the town clinic.
+3. ____________ some warm tea and medicine on the table.
+4. ____________ two friendly doctors in the town.
 
 **挑出錯誤並訂正：**
 5. *There have many visitors near the Sumida River.*  
    ➔ __________________________________________________
-6. *Hakuji drank a water after martial arts practice.*  
+6. *Hakuji drank a water after practice.*  
    ➔ __________________________________________________
-7. *There are a little patients resting in the clinic.*  
+7. *There are a little patients resting in the room.*  
    ➔ __________________________________________________
 
 ---
@@ -218,15 +218,15 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 ### C. CAP-style Contextual Questions (會考題型模擬)
 
 1. Look at the dialogue:  
-   *Ken:* "Excuse me, ______ any doctors at the festival medical center?"  
+   *Ken:* "Excuse me, ______ any doctors at the resting room?"  
    *Officer:* "Yes, ______ two doctors and a nurse there right now."  
    A. is there ; there is  
    B. are there ; there are  
    C. have there ; they have  
    D. do they have ; there have  
 
-2. *Edo Reporter:* "Why is the town so busy tonight?"  
-   *Townsman:* "Because ______ a grand fireworks festival by the river, and ______ people came to watch it."  
+2. *Reporter:* "Why is the town so busy tonight?"  
+   *Townsman:* "Because ______ a big fireworks festival by the river, and ______ people came to see it."  
    A. there is ; many  
    B. there are ; much  
    C. it has ; a little  
@@ -243,15 +243,15 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 | 地點 | 觀察到的事物 | 我的造句 (使用 There is / There are + 數量詞) |
 | --- | --- | --- |
 | **Public Well (水井)** | clean water / no trash | *Example: There is clean water in the well.* |
-| **River Bridge (河邊大橋)** | a huge crowd / a few guards | |
-| **Soryu Dojo Gate (道場大門)** | a stranger / two martial artists | |
-| **Clinic Area (醫療休息區)** | some medicine / three patients | |
+| **River Bridge (河邊大橋)** | a big crowd / a few guards | |
+| **Soryu Dojo Gate (道場大門)** | a stranger / two students | |
+| **Resting Room (休息區)** | some medicine / three patients | |
 
 ---
 
 ### Activity 2: The Meaning of Protection (深入討論)
 
-1. Master Keizo told Hakuji: *"Your real power is your desire to protect others."* What is something or someone you want to **protect** with your **strength**?  
+1. Master Keizo told Hakuji: *"Your real power is your heart to protect others."* Who or what do you want to **protect** with your **strength**?  
    ➔ *I want to protect ______ because ______.*
 
 ---
@@ -274,28 +274,28 @@ Keizo then pointed to the town **notice** on the wooden table. "There will be a 
 guard   |   event   |   stranger   |   strength   |   crowd   |   notice
 ```
 
-6. The annual fireworks show is the most exciting summer ______ in the city.
-7. A tall stone statue stands outside the gate to ______ the old temple.
-8. The police officer told the children not to accept food from a ______.
-9. Eating healthy meals and exercising regularly will give your body more ______.
-10. A cheerful ______ of fans cheered loudly when the performance started.
-11. Please read the warning ______ on the wall before entering the swimming pool.
+6. The summer fireworks show is the most exciting ______ in our town.
+7. A stone dog stands outside the gate to ______ the old temple.
+8. The town guard told the children not to walk with a bad ______.
+9. Good food and daily exercise will give your body more ______.
+10. A big ______ of happy people cheered loudly when the show started.
+11. Please read the safety ______ on the board before entering the area.
 
 ---
 
 ### C. Contextual Multiple Choice
 
-12. If someone makes a **promise** to you, it means they ______.  
-    A. give you their word that they will do something  
-    B. borrow money without telling you  
-    C. run away from danger  
+12. If you make a **promise** to a friend, it means you ______.  
+    A. give your word that you will do something  
+    B. take money without asking  
+    C. run away from home  
 
-13. The martial artist practiced every morning to improve his fighting ______.  
-    A. pillow  
+13. The young man practiced every morning to improve his fighting ______.  
+    A. box  
     B. skill  
-    C. umbrella  
+    C. pillow  
 
-14. On New Year's Eve, thousands of colorful ______ lit up the dark night sky.  
+14. During the summer festival, bright and colorful ______ lit up the dark sky.  
     A. fireworks  
     B. medicines  
     C. strangers  

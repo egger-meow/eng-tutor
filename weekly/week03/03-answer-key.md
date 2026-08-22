@@ -3,10 +3,10 @@
 ## Part 2：Reading Comprehension
 
 1. **B** - Text A 公告欄旨在通知夏日祭典時程、活動安排與水井防護安全守則。
-2. **C** - Text A 第一條守則明確寫道：*Report any suspicious stranger around private or neighborhood wells to the local guards.*（向當地守衛通報可疑陌生人）。
-3. **C** - 根據 Text A 表格時程，7:00 P.M. 舉行武術示範賽，因此 7:15 P.M. 正在進行該項活動。
-4. **B** - Text B 中狛治向慶藏表示：*When she becomes strong enough to walk outside, I will carry her to the riverbank so we can watch the fireworks together.*（等戀雪康復能出門，會背她去看煙火）。
-5. **C** - 慶藏讚揚狛治天生具有守護弱者的本心，就像守護神社的石獅狛犬（guardian lion dog）。
+2. **C** - Text A 第一條守則明確寫道：*If you see a dangerous stranger near private or neighborhood wells, tell the local guards.*（向當地守衛通報危險陌生人）。
+3. **C** - 根據 Text A 表格時程，7:00 P.M. 舉行武術表演（Martial Arts Show），因此 7:15 P.M. 正在進行該項活動。
+4. **B** - Text B 中狛治向慶藏表示：*When she becomes strong enough to walk outside, I will carry her to the river so we can watch the fireworks together.*（等戀雪康復能出門，會背她去看煙火）。
+5. **C** - 慶藏讚揚狛治天生具有守護弱者的本心，就像寺廟外的石獅狛犬守衛（guard dog outside the temple）。
 6. **A** - 從上下文 *The doctor said she needs strength, but she will recover with good food and quiet care* 可知 `recover` 意為「康復；恢復健康」。
 7. **A** - 雙文本整合題：Text A 強調保護城鎮水井乾淨；Text B 描寫狛治端乾淨水照護戀雪與服藥。
 8. **B** - 狛治感念慶藏給了他一個家並待他如子，立誓誓死保護道場與戀雪。
@@ -30,11 +30,11 @@
 
 1. **There is** - 後方為單數可數名詞 `a quiet resting room`。
 2. **There are** - 後方為複數名詞 `over three hundred fireworks`。
-3. **There is** - 主要名詞 `hot tea and medicine` 為不可數名詞。
+3. **There is** - 主要名詞 `warm tea and medicine` 為不可數名詞。
 4. **There are** - 後方為複數名詞 `two friendly doctors`。
 5. **There are many visitors near the Sumida River.** - 存在句不可用 `There have`，改為 `There are`。
-6. **Hakuji drank some water after martial arts practice. (或 Hakuji drank water...)** - `water` 為不可數名詞，不可加不定冠詞 a。
-7. **There are a few patients resting in the clinic.** - `patients` 為可數複數名詞，修飾「一些」應使用 `a few`，不可用 `a little`。
+6. **Hakuji drank some water after practice. (或 Hakuji drank water...)** - `water` 為不可數名詞，不可加不定冠詞 a。
+7. **There are a few patients resting in the room.** - `patients` 為可數複數名詞，修飾「一些」應使用 `a few`，不可用 `a little`。
 
 ---
 
