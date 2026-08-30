@@ -1,14 +1,14 @@
 # Week 4 答案與詳解：Jonathan's Sigma First Day
 
-## Part 3：Reading Comprehension
+## Part 3：CAP-style Reading Comprehension
 
-1. **A** - 故事從 Jonathan 訂 sigma 規則開始，最後他重新決定自己想成為哪一種 sigma 男。
-2. **B** - 媽媽叫住他，因為他忘了帶午餐。
-3. **A** - 文章直接寫 Kevin 的書散落在地上。
-4. **B** - Jonathan 看了規則後仍選擇幫 Kevin，表示他覺得幫人比維持酷樣更好。
-5. **A** - `Stay calm. Do not run.` 顯示 calm 是不生氣、不慌張。
-6. **B** - `them` 是 Kevin 的書，Jonathan 把書交還給 Kevin，所以 `him` 指 Kevin。
-7. **C** - 最後的新規則直接呈現 Jonathan 對 sigma 的新想法。
+1. **A** - 開頭是 Jonathan 想靠三條規則裝酷，中間三條規則逐一失敗，結尾則改成尊重人、幫人和接受自己。B 只提到忘東西，範圍太小。
+2. **B** - 媽媽提醒他忘了午餐，下一段寫他跑回去拿雞肉午餐。
+3. **C** - 他先想照 Rule 1 不理 Kevin，後來想到負責任的人會幫忙，於是停下來撿書。
+4. **C** - 三條 sigma 規則都失敗，但他拿午餐、幫 Kevin，也能和新同學自然大笑，因此 Kevin 認為他通過了好朋友測驗。
+5. **B** - Jonathan 一笑就打破「午餐前不笑」的 Rule 2；`dead` 在這裡表示這條規則已經守不住，不是字面死亡。
+6. **B** - `them` 是 Kevin 的書；Jonathan 把書交還給 Kevin，所以 `him` 指 Kevin。
+7. **C** - Rule 1 因幫 Kevin 失敗，Rule 2 因微笑失敗，Rule 3 因笑到噴奶失敗，三條各有不同原因。
 
 ## Part 5：Grammar Practice
 
@@ -38,18 +38,18 @@
 
 ### A. Matching
 
-1. **C** - alone：單獨地
-2. **A** - ready：準備好的
-3. **B** - rule：規則
-4. **E** - calm：冷靜的
-5. **D** - respect：尊重
+1. **B** - confident：有自信的
+2. **D** - independent：獨立的
+3. **A** - notice：注意到
+4. **C** - responsible：負責任的
+5. **E** - respect：尊重
 
 ### B. Fill in the blank
 
-6. **quiet**
-7. **problem**
-8. **choose**
-9. **follow**
+6. **serious**
+7. **ignore**
+8. **decision**
+9. **control**
 
 ### C. Choose the best word
 
@@ -59,4 +59,4 @@
 
 ### D. Short writing
 
-13. 開放作答。可接受例句：**A sigma man should stay calm.** / **A sigma man should respect other people.**
+13. 開放作答。可接受例句：**A sigma man should be responsible.** / **A sigma man should respect other people.**

@@ -1,45 +1,38 @@
 # Week 4 講義：Jonathan's Sigma First Day
 
-**文法重點：** 人稱代名詞與所有格（he / him / his、they / them / their）  
+**文法重點：** 人稱代名詞與所有格（he / him / his、they / them / their）<br>
 **核心單字：** 9 個
 
 ---
 
-## Part 1：Reading - The Sigma Plan
+## Part 1：Reading - The Sigma Test
 
-On Sunday night, Jonathan made a plan for his first day of junior high school. He wrote six **rules** in a small book.
+On Sunday night, Jonathan made a plan for his first day of junior high school. He wanted to look **confident**, so he wrote three sigma rules in a small book.
 
 > ### Jonathan's Sigma Rules
-> 1. Walk into school **alone**.
-> 2. Stay **calm**. Do not run.
-> 3. Be **quiet**. Sigma men do not talk too much.
-> 4. Do not smile before lunch.
-> 5. Always look **ready**.
-> 6. **Respect** good people, but do not follow everyone.
+> 1. Be **independent**. Walk into school alone.
+> 2. Look **serious**. Do not smile before lunch.
+> 3. Stay in **control**. Never let a small problem win.
 
-On Monday morning, Jonathan put on his bag and looked at his cool face.
+On Monday morning, Jonathan put on his bag and looked in the mirror. He tried his best sigma face. It looked a little like he had a bad stomach, but he did not **notice** that.
 
-"Today, I **choose** the sigma life," he said. Then his mother called, "Jonathan! You forgot your lunch!"
+Then his mother called, "Jonathan! You forgot your lunch!"
 
-His cool face was gone. He ran back, took the lunch box, and tried to walk slowly again.
+Jonathan had to make a **decision**. He could keep walking like a cool sigma man, or he could run back for his chicken lunch. Two seconds later, he was running. Chicken won.
 
-At school, Jonathan saw Kevin near the classroom. Kevin had a **problem**. His books were all over the floor.
+At school, Jonathan saw Kevin near the classroom. Kevin's books were all over the floor. At first, Jonathan tried to **ignore** him because Rule 1 said to walk alone. Then he stopped. He knew that a **responsible** person would help.
 
-Jonathan looked at Rule 1 in his book: *Walk alone.* Then he looked at Kevin.
+Jonathan picked up Kevin's books and gave them to **him**.
 
-"A real sigma can help," Jonathan said. He picked up Kevin's books and gave them to **him**.
+"Thanks," Kevin said. "That was cool."
 
-"Thanks!" Kevin said. "Are you a sigma man now?"
+Jonathan smiled. Rule 2 was dead.
 
-"Yes," Jonathan said. "Please do not tell anyone about the lunch box."
+At lunch, Jonathan sat with Kevin and two new students. **They** talked about games. Jonathan laughed so hard that milk came out of his nose. He could not control it. Rule 3 was also dead.
 
-Kevin smiled. "I will not tell anyone."
+Kevin gave Jonathan a piece of paper. It said, "SIGMA TEST: 0/3. GOOD FRIEND TEST: 3/3."
 
-At lunch, Jonathan sat with Kevin and two new students. **They** talked about games. Jonathan laughed so hard that milk came out of his nose.
-
-Rule 4 was now dead.
-
-Jonathan opened his book and wrote one new rule: *A sigma man can laugh, help others, and be himself.*
+Jonathan laughed again. Then he wrote a new rule: "A real sigma man can **respect** people, help them, and laugh at himself."
 
 ---
 
@@ -47,61 +40,61 @@ Jonathan opened his book and wrote one new rule: *A sigma man can laugh, help ot
 
 | # | Word | POS | 中文意思 | Simple Example |
 | :---: | :--- | :--- | :--- | :--- |
-| 1 | **rule** | n. | 規則 | Our class has one new rule. |
-| 2 | **alone** | adj. / adv. | 獨自的；單獨地 | He walked to the door alone. |
-| 3 | **calm** | adj. | 冷靜的 | Stay calm and try again. |
-| 4 | **quiet** | adj. | 安靜的 | The room is quiet now. |
-| 5 | **ready** | adj. | 準備好的 | I am ready for school. |
-| 6 | **respect** | v. / n. | 尊重 | Good friends respect each other. |
-| 7 | **choose** | v. | 選擇 | You can choose one book. |
-| 8 | **problem** | n. | 問題；難題 | Kevin has a problem. |
-| 9 | **follow** | v. | 跟隨；遵守 | Please follow the school rules. |
+| 1 | **confident** | adj. | 有自信的 | She feels confident before the game. |
+| 2 | **independent** | adj. | 獨立的 | He is independent and can work alone. |
+| 3 | **serious** | adj. | 嚴肅的；認真的 | Dad has a serious face. |
+| 4 | **control** | v. / n. | 控制 | I cannot control my laugh. |
+| 5 | **notice** | v. | 注意到 | Did you notice his new bag? |
+| 6 | **decision** | n. | 決定 | It was a good decision. |
+| 7 | **ignore** | v. | 忽略；不理會 | Do not ignore a friend who needs help. |
+| 8 | **responsible** | adj. | 負責任的 | A responsible student does his work. |
+| 9 | **respect** | v. / n. | 尊重 | Good friends respect each other. |
 
 ---
 
-## Part 3：Reading Comprehension
+## Part 3：CAP-style Reading Comprehension
 
-1. **Main idea** What is the story mainly about?  
-   A. Jonathan learns what kind of sigma man he wants to be.  
-   B. Jonathan loses all of his school books.  
-   C. Kevin makes six rules for Jonathan.  
-   D. Jonathan does not go to school.
+1. What is the main idea of the reading?<br>
+   A. Jonathan finds that being a good person is more important than following his cool rules.<br>
+   B. Jonathan has a bad first day because he forgets many things.<br>
+   C. Kevin teaches Jonathan how to look confident at school.<br>
+   D. Jonathan learns that sigma men should never eat chicken.
 
-2. **Detail** What did Jonathan forget at home?  
-   A. His bag  
-   B. His lunch  
-   C. His small book  
-   D. His milk
+2. Why did Jonathan run back home?<br>
+   A. He wanted to change his serious face.<br>
+   B. He needed to get his lunch.<br>
+   C. His mother asked him to help Kevin.<br>
+   D. He did not want to walk alone.
 
-3. **Detail** What problem did Kevin have?  
-   A. His books were on the floor.  
-   B. He forgot his lunch.  
-   C. He did not know Jonathan.  
-   D. He could not find the classroom.
+3. Jonathan first tried to ignore Kevin, but then helped him. What does this show?<br>
+   A. He could not remember Rule 1.<br>
+   B. He wanted Kevin to call him cool.<br>
+   C. He chose to be responsible instead of only looking cool.<br>
+   D. He thought Kevin's books were his.
 
-4. **Inference** Why did Jonathan help Kevin, even when Rule 1 said to walk alone?  
-   A. He wanted Kevin's lunch.  
-   B. He thought helping was better than looking cool.  
-   C. His mother told him to do it.  
-   D. He wanted to leave school.
+4. Why did Kevin write "GOOD FRIEND TEST: 3/3"?<br>
+   A. Jonathan shared three books with him.<br>
+   B. Jonathan broke three school rules.<br>
+   C. Jonathan helped people and was himself, even when his sigma plan failed.<br>
+   D. Jonathan got all three answers right in class.
 
-5. **Guess from context** In the story, what does **calm** mean?  
-   A. Not angry or afraid  
-   B. Very hungry  
-   C. Not ready  
-   D. Very funny
+5. In the reading, what does "Rule 2 was dead" mean?<br>
+   A. Jonathan no longer needed the small book.<br>
+   B. Jonathan could not follow Rule 2 anymore.<br>
+   C. Kevin did not respect Jonathan's rule.<br>
+   D. The rule made Jonathan feel sick.
 
-6. **Pronoun reading** In “He picked up Kevin's books and gave them to **him**,” who is **him**?  
-   A. Jonathan  
-   B. Kevin  
-   C. Jonathan's mother  
-   D. A teacher
+6. In "Jonathan picked up Kevin's books and gave them to **him**," who does **him** mean?<br>
+   A. Jonathan<br>
+   B. Kevin<br>
+   C. Jonathan's father<br>
+   D. A new student
 
-7. **Character** Which sentence best shows that Jonathan changed his idea?  
-   A. He put on his bag.  
-   B. He walked into school.  
-   C. He wrote that a sigma man can laugh, help, and be himself.  
-   D. He drank milk at lunch.
+7. Which is true about Jonathan's three rules?<br>
+   A. They helped him make three new friends.<br>
+   B. He followed all of them until lunch.<br>
+   C. Each rule failed for a different reason.<br>
+   D. His mother wrote them for him.
 
 ---
 
@@ -115,9 +108,9 @@ Jonathan opened his book and wrote one new rule: *A sigma man can laugh, help ot
 | **受格** | 動作對誰？ | me | you | him | her | us | them |
 | **所有格** | 是誰的？＋名詞 | my | your | his | her | our | their |
 
-> **快速判斷：**  
-> - 動詞前，找做事的人：**He** helps Kevin.  
-> - 動詞或介系詞後，找動作對象：Kevin thanks **him**.  
+> **快速判斷：**<br>
+> - 動詞前，找做事的人：**He** helps Kevin.<br>
+> - 動詞或介系詞後，找動作對象：Kevin thanks **him**.<br>
 > - 名詞前，表示誰的：That is **his** book.
 
 ### 2. 人名與東西如何代換
@@ -127,7 +120,7 @@ Jonathan opened his book and wrote one new rule: *A sigma man can laugh, help ot
 - Jonathan and Kevin = **they / them / their**
 - the lunch box = **it / it / its**
 
-> 注意：`his` 可以直接放在名詞前：**his bag**。  
+> 注意：`his` 可以直接放在名詞前：**his bag**。<br>
 > `he` 不可以放在名詞前：❌ **he bag**。
 
 ---
@@ -136,7 +129,7 @@ Jonathan opened his book and wrote one new rule: *A sigma man can laugh, help ot
 
 ### A. Choose the best word
 
-1. Jonathan is ready. ______ walks into school. (He / Him / His)
+1. Jonathan looks confident. ______ walks into school. (He / Him / His)
 2. Kevin sees Jonathan and calls ______. (he / him / his)
 3. Jonathan opens ______ small book. (he / him / his)
 4. Kevin and Jonathan are classmates. ______ talk at lunch. (They / Them / Their)
@@ -153,28 +146,28 @@ Jonathan opened his book and wrote one new rule: *A sigma man can laugh, help ot
 
 ### C. CAP-style Contextual Questions
 
-1. *Kevin:* "Where is Jonathan? I have his book."  
-   *Amy:* "There he is. Please give it to ______."  
+1. *Kevin:* "Where is Jonathan? I have his book."<br>
+   *Amy:* "There he is. Please give it to ______."<br>
    A. he　 B. him　 C. his　 D. they
 
-2. Jonathan and Kevin are new students. ______ classroom is on the second floor, and Ms. Lin teaches ______ English.  
+2. Jonathan and Kevin are new students. ______ classroom is on the second floor, and Ms. Lin teaches ______ English.<br>
    A. They ; their　 B. Them ; they　 C. Their ; them　 D. Their ; they
 
 ---
 
-## Part 6：Speaking - Make Your Own Sigma Rules
+## Part 6：Speaking - The New Sigma Test
 
-Choose three ideas and make your own funny sigma rules.
+Choose three ideas and make your own funny sigma test.
 
 ```text
-stay calm | help friends | walk alone | be ready | respect people | laugh loudly
+look confident | be responsible | respect people | ignore homework | control your laugh | help friends
 ```
 
-1. My first rule is: ______________________________________________
-2. My second rule is: _____________________________________________
-3. My funny rule is: ______________________________________________
+1. A real sigma man should ________________________________________
+2. A real sigma man should not ____________________________________
+3. My funniest sigma rule is ______________________________________
 
-Tell your partner one rule. Your partner asks: “Why do you choose that rule?”
+Tell your partner one rule. Your partner asks, "Why did you make that decision?"
 
 ---
 
@@ -182,35 +175,35 @@ Tell your partner one rule. Your partner asks: “Why do you choose that rule?�
 
 ### A. Match the words with their meanings
 
-1. `alone`　 A. 準備好的  
-2. `ready`　 B. 規則  
-3. `rule`　 C. 單獨地  
-4. `calm`　 D. 尊重  
-5. `respect` E. 冷靜的
+1. `confident`　　 A. 注意到<br>
+2. `independent`　 B. 有自信的<br>
+3. `notice`　　　 C. 負責任的<br>
+4. `responsible`　D. 獨立的<br>
+5. `respect`　　　E. 尊重
 
 ### B. Choose a word from the box
 
 ```text
-choose | follow | problem | quiet
+control | decision | ignore | serious
 ```
 
-6. Please be ______ in the classroom.
-7. I have a ______. I cannot find my book.
-8. You can ______ one game to play.
-9. Good students ______ the class rules.
+6. Dad has a ______ face, but he is not angry.
+7. Do not ______ your friend when he needs help.
+8. Jonathan made a ______ to help Kevin.
+9. He could not ______ his laugh.
 
 ### C. Choose the best word
 
-10. Jonathan has a lunch box. It is ______ lunch box.  
+10. Jonathan has a lunch box. It is ______ lunch box.<br>
     A. he　B. him　C. his
 
-11. Kevin needs help. Jonathan helps ______.  
+11. Kevin needs help. Jonathan helps ______.<br>
     A. he　B. him　C. his
 
-12. Jonathan and Kevin are friends. ______ laugh together.  
+12. Jonathan and Kevin are friends. ______ laugh together.<br>
     A. They　B. Them　C. Their
 
 ### D. Short writing
 
-13. Write one good sigma rule with a core word.  
+13. Write one good sigma rule with a core word.<br>
     *A sigma man should* ____________________________________________.
