@@ -40,8 +40,8 @@
 
 ### C. CAP-style Contextual Questions (會考題型模擬)
 
-1. **B** - 問句中 `any doctors` 為複數，疑問句用 *Are there...?*；回答有兩位醫生用 *there are...*。
-2. **A** - 第一格後面為單數事件 `a grand fireworks festival` 用 `there is`；第二格修飾可數名詞 `people` 用 `many`。
+1. **B** - 問句中 `any doctors` 為複數，疑問句用 *Are there...?*；回答有兩位醫生用 *there are...*。人在房間裡用 `in the resting room`。
+2. **A** - 第一格後面為單數事件 `a big fireworks festival`，用 `there is`；第二格修飾可數名詞 `people`，用 `many`。兩部分都描述今晚正在發生的情況。
 
 ---
 

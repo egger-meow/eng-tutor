@@ -204,7 +204,7 @@ Hakuji looked at his hands. Three years ago, he was alone and angry. But Master 
 ### C. CAP-style Contextual Questions (會考題型模擬)
 
 1. Look at the dialogue:  
-   *Ken:* "Excuse me, ______ any doctors at the resting room?"  
+   *Ken:* "Excuse me, ______ any doctors in the resting room?"
    *Officer:* "Yes, ______ two doctors and a nurse there right now."  
    A. is there ; there is  
    B. are there ; there are  
@@ -212,7 +212,7 @@ Hakuji looked at his hands. Three years ago, he was alone and angry. But Master 
    D. do they have ; there have  
 
 2. *Reporter:* "Why is the town so busy tonight?"  
-   *Townsman:* "Because ______ a big fireworks festival by the river, and ______ people came to see it."  
+   *Townsman:* "Because ______ a big fireworks festival by the river, and ______ people are here to see it."
    A. there is ; many  
    B. there are ; much  
    C. it has ; a little  
