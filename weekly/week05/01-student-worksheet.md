@@ -1,8 +1,8 @@
 # Week 5 講義：Brawl Stars: Save the Game
 
 **文法重點：** 現在進行式（am / is / are + V-ing）<br>
-**發音重點：** 看字敢念：尾音煞車、字尾 L、TH、V<br>
-**核心單字：** 8 個（7 個 1200 級 + 1 個 800 級）
+**發音重點：** 看字敢念：尾音煞車、字尾 L、TH、V、重音位置<br>
+**核心單字：** 8 個（2 個 1200 級 + 6 個 800 級）
 
 ---
 
@@ -10,24 +10,24 @@
 
 ### ① The Test
 
-In 2017, Supercell was testing *Brawl Stars* in Canada. The game was new, and the characters were fun.
+In 2017, Supercell was testing *Brawl Stars* in Canada. At first, many players tried the game. But after three or four days, a lot of them stopped coming back.
 
-But after a few days, many players stopped playing. The **number** of players was going down. The **team** saw a big **problem**.
+The team knew it had a big **problem**. If players did not stay, the game could not grow.
 
 > 🎮 **THE PROBLEM**  
-> People tried the game → played for a few days → stopped coming back.
+> Players try the game → play for a few days → stop coming back.
 
-### ② Save It or Stop It?
+### ② Under Pressure
 
-Supercell has a hard rule. If a new game is not doing well, the company may **cancel** it.
+Supercell has a hard rule. If a new game cannot keep enough players, the company may **cancel** it.
 
-The team did not want that. They wanted to **save** *Brawl Stars*, but small fixes were not enough. They needed a big **change**.
+That put a lot of **pressure** on the team. Some people wanted to make only small changes. But the team leader thought small changes were not enough. The game needed one big **change**.
 
-### ③ One Big Change
+### ③ A New System
 
-At first, the game used a tall **screen**. Players held the phone up and played with one hand.
+The team began to **develop** a new control **system**.
 
-The team tried a new idea. They **turned** the phone to the side. Now players could use both hands. One circle was for moving, and one was for shooting.
+They turned the phone to the side. On the wider screen, players could use both hands. The left hand moved the player. The right hand aimed and shot.
 
 | BEFORE | AFTER |
 | :--- | :--- |
@@ -35,17 +35,17 @@ The team tried a new idea. They **turned** the phone to the side. Now players co
 | One hand | Two hands |
 | Many players left after a few days | More players stayed |
 
-> ⚡ **BIG DECISION**  
-> Keep the old way ❌  
-> **Turn** the phone and rebuild the controls ✅
+> ⚡ **BIG CHANGE**  
+> Keep the old system ❌  
+> **Develop a new two-hand system** ✅
 
-### ④ It Worked
+### ④ Would It Survive?
 
-Some old players did not like the change at first. They wanted the old game back.
+At first, many old players had strong **opinions**. Some said, "I do not like this new system. Give us the old game back!"
 
-But more new players kept playing. The **number** of players went up. The team had found a way to **save** the game.
+But new players kept playing longer. More people came back each day. The new system was working.
 
-In December 2018, *Brawl Stars* came out around the world. A game that was close to being **cancelled** became a huge hit.
+*Brawl Stars* **survived** the test. In December 2018, the game came out around the world. The team had changed a game that was close to being cancelled into a huge hit.
 
 ---
 
@@ -54,65 +54,67 @@ In December 2018, *Brawl Stars* came out around the world. A game that was close
 | # | Word | Level | 中文意思 | Simple Example |
 | :---: | :--- | :---: | :--- | :--- |
 | 1 | **change** | 1200 | 改變；變化 | The team made a big change. |
-| 2 | **number** | 1200 | 數字；數量 | The number of players is going up. |
-| 3 | **problem** | 1200 | 問題 | We have a problem with the game. |
-| 4 | **save** | 1200 | 拯救；保存 | The team wants to save the game. |
-| 5 | **screen** | 1200 | 螢幕 | Turn the phone screen to the side. |
-| 6 | **team** | 1200 | 團隊；隊伍 | Our team is working together. |
-| 7 | **turn** | 1200 | 轉動；轉向 | Turn the phone to the side. |
-| 8 | **cancel** | 800 | 取消 | The company may cancel the game. |
+| 2 | **problem** | 1200 | 問題 | The game had a big problem. |
+| 3 | **develop** | 800 | 開發；發展 | The team wants to develop a new game. |
+| 4 | **pressure** | 800 | 壓力 | The team is working under pressure. |
+| 5 | **cancel** | 800 | 取消；停止 | The company may cancel the game. |
+| 6 | **system** | 800 | 系統；一套方法 | The new system uses two hands. |
+| 7 | **opinion** | 800 | 意見；看法 | What is your opinion about the game? |
+| 8 | **survive** | 800 | 撐過；存活 | The game survived a hard test. |
 
-### 快速記憶：把 8 個字串成一條故事
+### 快速記憶：不要背八個孤單的字
 
-**team → problem → number ↓ → change → turn screen → save → not cancel**
+把它們串成故事：
 
-不用背八個孤單的字。把它們記成一條事件線，會更容易叫回來。
+**problem → pressure → cancel? → change → develop a system → opinions → survive**
+
+看到這條線時，試著不用中文，把 Brawl Stars 的故事講一遍。
 
 ---
 
 ## Part 3：CAP-style Reading Comprehension
 
 1. What is the main idea of the reading?<br>
-   A. Supercell wanted every player to use one hand.<br>
-   B. A big change in how people played helped save *Brawl Stars*.<br>
-   C. Canadian players made *Brawl Stars* by themselves.<br>
-   D. *Brawl Stars* was easy to make from the start.
+   A. Supercell wanted every player to buy a new phone.<br>
+   B. The team developed a new system to solve a problem and help *Brawl Stars* survive.<br>
+   C. Old players developed *Brawl Stars* by themselves.<br>
+   D. The game was a huge hit from its first day.
 
-2. What was the team's big problem in 2017?<br>
-   A. The number of players was going down.<br>
-   B. The game had no characters.<br>
-   C. The team had no phones.<br>
-   D. The game was only for computers.
+2. Why was the team under **pressure**?<br>
+   A. The company might cancel the game if players did not stay.<br>
+   B. The team had to make a game for school.<br>
+   C. The players wanted a smaller phone.<br>
+   D. The team did not know how to play games.
 
-3. In the reading, what does **cancel** mean?<br>
-   A. Make something bigger.<br>
-   B. Stop something and not continue it.<br>
-   C. Play something again.<br>
-   D. Give something to a friend.
+3. What did the team **develop**?<br>
+   A. A new phone.<br>
+   B. A new two-hand control system.<br>
+   C. A new school.<br>
+   D. A new game company.
 
-4. What big change did the team make?<br>
-   A. They made every player buy a new phone.<br>
-   B. They removed all the characters.<br>
-   C. They turned the phone to the side and used two-hand controls.<br>
-   D. They changed the game into a computer game.
+4. Which sentence is an **opinion**?<br>
+   A. The game was tested in Canada in 2017.<br>
+   B. The phone was turned to the side.<br>
+   C. "I do not like this new system."
+   D. The game came out around the world in 2018.
 
-5. Why did the team make the change?<br>
-   A. They wanted to save the game.<br>
-   B. They wanted fewer players.<br>
-   C. They wanted to cancel the game faster.<br>
-   D. They wanted players to stop shooting.
+5. In the last part, what does **survived** mean?<br>
+   A. The game did not end and kept going.<br>
+   B. The game became smaller.<br>
+   C. The game went back to the old system.<br>
+   D. The game stopped all players.
 
-6. Look at the BEFORE / AFTER table. What happened after the change?<br>
-   A. More players stayed with the game.<br>
-   B. Everyone stopped playing at once.<br>
-   C. The team went back to one-hand controls.<br>
-   D. The screen became smaller every day.
+6. Look at the BEFORE / AFTER table. What changed?<br>
+   A. Players moved from two hands to one hand.<br>
+   B. Players moved from one-hand play to two-hand play.<br>
+   C. Players stopped using phones.<br>
+   D. Players stopped shooting in the game.
 
-7. Which lesson best matches the story?<br>
-   A. A team should never change a game.
-   B. A big problem can sometimes need a big change.
-   C. Old players are always wrong.
-   D. Every game should use the same controls.
+7. What lesson best matches the story?<br>
+   A. A big problem can sometimes need a big change.<br>
+   B. A team should always listen to every opinion and change back.<br>
+   C. A company should cancel every new game quickly.<br>
+   D. A new system is always worse than an old system.
 
 ---
 
@@ -120,60 +122,64 @@ In December 2018, *Brawl Stars* came out around the world. A game that was close
 
 ### 先講規則：這區不背音標
 
-你不需要先學一堆奇怪符號。今天只練四個「看到字就能做」的嘴巴動作。
+今天不是背符號。目標是：**看到字 → 找線索 → 自己先試著念。**
 
 ### Trick 1：尾音煞車
 
-英文單字最後如果是 `t / k / p`，**做到那個嘴型就停**，不要自己多送一個「ㄜ」或「特」。
+英文單字最後如果是 `t / k / p`，做到那個嘴型就停，不要自己多補「ㄜ」。
 
-- `stop`：最後嘴唇閉起來就停。
-- `book`：最後做出 `k` 的位置就停。
-- 常見錯法：把 `stop` 多念成「stop-ㄜ」。
+- `develop` → de-**VEL**-op
+- 最後的 `p`：嘴唇合起來收住。
+- 常見錯法：念成 de-VEL-op-「ㄜ」。
 
-### Trick 2：字尾 L 不要變成「歐」
+### Trick 2：字尾 L 不要滑成「歐」
 
-看到單字最後的 `l`，**舌尖碰到上排門牙後面的地方**。
-
-- `school`：最後舌尖要上去。
-- `cancel`：可以拆成 **CAN-cel**；第一段比較大聲，最後舌尖收在 L。
-- 常見錯法：最後直接滑成「歐」。
-
-### Trick 3：TH 要真的用舌頭
-
-看到 `th`，舌尖輕輕放到上下牙中間，再把氣送出去。
-
-- `think`：TH 先送氣，再接後面。
-- `this`：嘴型一樣，但喉嚨要有聲音。
-- 常見錯法：直接偷換成 `s`、`d`。
-
-### Trick 4：V 是「牙齒碰下嘴唇」
-
-看到 `v`，**上排牙齒輕碰下嘴唇**，讓聲音震出來。
-
-- `save`：最後的 `v` 也要做到位。
-- `move`：不要把 `v` 念成 `w`。
-- 常見錯法：嘴唇直接噘起來，變成 W。
-
-### 重音怎麼看？不用符號，用大寫
+看到最後的 `l`，舌尖要碰到上排門牙後面的地方。
 
 - `cancel` → **CAN**-cel
-- `today` → to-**DAY**
-- `about` → a-**BOUT**
+- 最後 `l` 舌尖要上去。
+- 常見錯法：最後變成「歐」。
 
-大寫那一段念得比較清楚、比較有力，其他部分輕一點。
+### Trick 3：V 是「上牙碰下唇」
+
+看到 `v`，上排牙齒輕碰下嘴唇，讓聲音震出來。
+
+- `survive` → sur-**VIVE**
+- 這個字有兩個 `v`，兩次都要做到。
+- 常見錯法：把 `v` 偷換成 `w`。
+
+### Trick 4：TH 要真的用舌頭
+
+看到 `th`，舌尖輕放在上下牙中間，再送氣。
+
+- `think`：先做 TH，再接後面。
+- `this`：嘴型差不多，但喉嚨有聲音。
+- 常見錯法：直接換成 `s` 或 `d`。
+
+### 重音：直接看大寫，不看奇怪符號
+
+| Word | 好讀提示 |
+| :--- | :--- |
+| develop | de-**VEL**-op |
+| pressure | **PRES**-sure |
+| cancel | **CAN**-cel |
+| opinion | o-**PIN**-ion |
+| survive | sur-**VIVE** |
+
+大寫那段念得最清楚、最有力，其他段輕一點。
 
 ### 🔓 Unseen Pronunciation Challenge
 
-**老師先不要念。** 先自己看字、套上面規則，再開口。
+**老師先不要念。** 自己看字，先套剛剛的規則。
 
-| Word | 先念一次 | 你用了哪一招？ |
+| Word | 先念一次 | 你主要用了哪一招？ |
 | :--- | :---: | :--- |
 | **bath** | □ | 尾音煞車 / L / TH / V |
 | **vest** | □ | 尾音煞車 / L / TH / V |
-| **desk** | □ | 尾音煞車 / L / TH / V |
+| **cup** | □ | 尾音煞車 / L / TH / V |
 | **mail** | □ | 尾音煞車 / L / TH / V |
 
-> 重點不是「以前有沒有背過這個字」，而是你能不能看到新字後，自己抓到一個剛學過的發音規則。
+> 這四個字不是本週新單字，不用背中文。它們只是在測：你能不能把剛學的發音方法用到沒練過的字。
 
 ---
 
@@ -193,28 +199,28 @@ In December 2018, *Brawl Stars* came out around the world. A game that was close
 
 | 句型 | Pattern | Example |
 | :--- | :--- | :--- |
-| 肯定 | 主詞 + am/is/are + V-ing | The team **is changing** the game now. |
-| 否定 | 主詞 + am/is/are + not + V-ing | They **are not cancelling** it now. |
+| 肯定 | 主詞 + am/is/are + V-ing | The team **is developing** a new system now. |
+| 否定 | 主詞 + am/is/are + not + V-ing | The company **is not cancelling** the game now. |
 | Yes/No 問句 | Am/Is/Are + 主詞 + V-ing? | **Are** players **coming** back? |
-| Wh- 問句 | Wh-word + am/is/are + 主詞 + V-ing? | What **is** the team **doing**? |
+| Wh- 問句 | Wh-word + am/is/are + 主詞 + V-ing? | What **is** the team **changing**? |
 
 ### 3. V-ing 三招
 
 | 規則 | 原形 | V-ing |
 | :--- | :--- | :--- |
-| 大多數直接 + ing | turn | turn**ing** |
-| 字尾不發音 e：去 e + ing | save | sav**ing** |
+| 大多數直接 + ing | develop | develop**ing** |
+| 字尾不發音 e：去 e + ing | survive | surviv**ing** |
 | 短母音 + 單一子音：雙寫再 + ing | stop | stop**ping** |
 
 ### 4. 最容易掉分的三件事
 
 1. **忘記 be 動詞**<br>
-   ❌ The team changing the game.<br>
-   ✅ The team **is changing** the game.
+   ❌ The team developing a new system.<br>
+   ✅ The team **is developing** a new system.
 
 2. **be 後面忘記 V-ing**<br>
-   ❌ They are turn the phone.<br>
-   ✅ They are **turning** the phone.
+   ❌ They are change the game.<br>
+   ✅ They are **changing** the game.
 
 3. **主詞和 be 動詞配錯**<br>
    - I → **am**
@@ -227,42 +233,42 @@ In December 2018, *Brawl Stars* came out around the world. A game that was close
 
 ### A. 先把動詞變成 V-ing
 
-1. turn → ____________________
-2. save → ____________________
-3. stop → ____________________
-4. make → ____________________
-5. play → ____________________
+1. develop → ____________________
+2. survive → ____________________
+3. change → ____________________
+4. stop → ____________________
+5. make → ____________________
 6. run → ____________________
 
 ### B. Choose the best answer
 
-1. Look! The team ______ the phone to the side.<br>
-   A. turns　 B. is turning　 C. turn　 D. are turning
+1. Look! The team ______ a new system now.<br>
+   A. develops　 B. is developing　 C. develop　 D. are developing
 
-2. The number of players ______ right now.<br>
-   A. is going up　 B. go up　 C. are going up　 D. goes up now every day
+2. The players ______ their opinions right now.<br>
+   A. are sharing　 B. shares　 C. is sharing　 D. share now every day
 
-3. Listen! The players ______ about the new game.<br>
-   A. are talking　 B. talks　 C. is talking　 D. talk now
+3. Listen! The team leader ______ about the big problem.<br>
+   A. is talking　 B. talks　 C. are talking　 D. talk
 
-4. The company ______ the game at the moment. It is still testing it.<br>
+4. The company ______ the game at the moment. The team is still working on it.<br>
    A. is not cancelling　 B. does not cancelling　 C. are not cancel　 D. not cancel
 
-5. Jonathan and Kevin ______ a game right now.<br>
-   A. is playing　 B. are playing　 C. plays　 D. playing
+5. Jonathan and Kevin ______ the new system right now.<br>
+   A. is testing　 B. are testing　 C. tests　 D. testing
 
-6. ______ the team ______ a big change now?<br>
-   A. Does ; make　 B. Is ; making　 C. Are ; make　 D. Do ; making
+6. ______ the team ______ the game now?<br>
+   A. Does ; change　 B. Is ; changing　 C. Are ; change　 D. Do ; changing
 
 ### C. Fix the sentence
 
-1. The team changing the screen now.<br>
+1. The team developing a new system now.<br>
    → ____________________________________________________________
 
-2. They are turn the phone to the side.<br>
+2. They are change the game right now.<br>
    → ____________________________________________________________
 
-3. The players is coming back now.<br>
+3. The players is sharing opinions now.<br>
    → ____________________________________________________________
 
 4. Is the company cancel the game right now?<br>
@@ -274,16 +280,16 @@ In December 2018, *Brawl Stars* came out around the world. A game that was close
 
 和老師一人一句。回答時一定要用 **am / is / are + V-ing**。
 
-**Lead:** What is the team doing right now?<br>
+**Lead:** What is the team developing right now?<br>
 **You:** The team ____________________________________________________________.
 
-**Lead:** Are players leaving the game now?<br>
-**You:** ___________________________________________________________________.
-
-**Lead:** What is changing on the screen?<br>
-**You:** ___________________________________________________________________.
+**Lead:** What are old players saying about the new system?<br>
+**You:** They _______________________________________________________________.
 
 **Lead:** Is the company cancelling the game now?<br>
+**You:** ___________________________________________________________________.
+
+**Lead:** What is changing in the game?<br>
 **You:** ___________________________________________________________________.
 
 ---
@@ -292,33 +298,35 @@ In December 2018, *Brawl Stars* came out around the world. A game that was close
 
 ### A. Match the word with the meaning
 
-1. change　　A. 團隊
-2. number　　B. 取消
-3. problem　 C. 改變
-4. save　　　D. 螢幕
-5. screen　　E. 數量
-6. team　　　F. 問題
-7. turn　　　G. 拯救
-8. cancel　　H. 轉動
+1. change　　 A. 意見；看法
+2. problem　　B. 系統；一套方法
+3. develop　　C. 撐過；存活
+4. pressure　 D. 改變；變化
+5. cancel　　 E. 壓力
+6. system　　 F. 問題
+7. opinion　　G. 開發；發展
+8. survive　　H. 取消；停止
 
 ### B. Fill in the blank
 
-Word bank: `change` `number` `problem` `save` `screen` `team` `turn` `cancel`
+Word bank: `change` `problem` `develop` `pressure` `cancel` `system` `opinion` `survive`
 
 1. We have a big ____________. We need a new idea.
-2. Please ____________ the phone to the side.
-3. The ____________ of players is going up.
-4. The whole ____________ is working together.
-5. The company does not want to ____________ the game.
-6. This big ____________ may help save the game.
+2. The team is under a lot of ____________ because the game may end.
+3. They want to ____________ a better way to play the game.
+4. What is your ____________ about the new system?
+5. The company may ____________ a game if players do not stay.
+6. The game must ____________ this test before it can come out around the world.
+7. The new control ____________ uses both hands.
+8. One big ____________ helped the game get better.
 
 ### C. Present Continuous
 
-1. Look! Kevin ____________ (play) a game now.
-2. The team ____________ (make) a change right now.
-3. They ____________ not ____________ (cancel) the game now.
-4. ____________ Jonathan ____________ (watch) the screen at the moment?
-5. The players ____________ (come) back now.
+1. Look! The team ____________ (develop) a new system now.
+2. The players ____________ (share) their opinions right now.
+3. The company ____________ not ____________ (cancel) the game now.
+4. ____________ Jonathan ____________ (test) the new system at the moment?
+5. The team ____________ (change) the game now.
 
 ### D. One-sentence challenge
 
