@@ -2,17 +2,17 @@
 
 **定位：** 課前 3 分鐘可掃完的 cheat sheet<br>
 **文法：** 現在進行式（am / is / are + V-ing）<br>
-**發音：** 不教 IPA；用嘴巴動作 + 易讀提示 + unseen transfer<br>
-**核心單字：** 8 個：`change, number, problem, save, screen, team, turn`（1200）+ `cancel`（800）
+**發音：** 不教 IPA；用嘴巴動作 + 易讀重音提示 + unseen transfer<br>
+**核心單字：** 8 個：`change, problem`（1200）+ `develop, pressure, cancel, system, opinion, survive`（800）
 
 ---
 
-## 本週設計校準
+## 本週難度校準
 
-- 上一版 12 個全 800 級拉太快，本版改成 **7 個 1200 + 1 個 800**。
-- 不追求「這週比上週更難」，追求學生真正能吸收、能在閱讀中反覆叫回來。
-- Reading 切成四個 story beats，利用 Problem box、Before/After、Big Decision 降低文字牆感。
-- Pronunciation 的成功標準不是會看音標，而是**看到沒示範過的字也敢套規則念**。
+- Week 4 是 **2 個 1200 + 7 個 800**；本週維持同一難度帶，但少一個較難字，改成 **2 個 1200 + 6 個 800**。
+- 不再用上一版 7 個 1200 + 1 個 800 的過度降檔版本。
+- 也不回到最初 12 個全 800 的爆量版本。
+- Reading、Pronunciation、Grammar、Homework 盡量反覆使用同一批核心字，讓難度來自真正吸收，不是生字數量堆高。
 
 ---
 
@@ -20,131 +20,128 @@
 
 ### 1. Warm-up + 上週複習（15-25 分）
 
-- 快問上週文法與單字，不要拖太久。
-- 問：「你知道 Brawl Stars 一開始差點被砍掉嗎？」當 reading hook。
+- 快問 Week 4 的 3-4 個單字與代名詞，不需全部重考。
+- Hook：「你知道 Brawl Stars 差點在正式推出前就被砍掉嗎？」
 
 ### 2. Reading（20-25 分）
 
 四段各停一次：
 
-1. **The Test**：先抓 `number / team / problem`。
-2. **Save It or Stop It?**：確認 `cancel / save / change`。
-3. **One Big Change**：讓 Jonathan 自己讀 Before/After table，問「真正改了什麼？」
-4. **It Worked**：確認因果鏈：problem → change → more players stay → save game。
+1. **The Test**：先讓 Jonathan 自己說出核心 `problem`。
+2. **Under Pressure**：帶 `pressure / cancel / change`，問「為什麼團隊有壓力？」
+3. **A New System**：帶 `develop / system`，讓他自己讀 Before/After table。
+4. **Would It Survive?**：帶 `opinion / survive`，確認「舊玩家的 opinion」和「實際結果」不是同一件事。
 
-**不要先把全部新字講完再讀。** 遇到才教，閱讀完再用 Part 2 整理。
+**不要課前先把 8 字全部翻譯。** 遇到才教，讀完再用 Part 2 做整理與 retrieval。
 
 ### 3. Vocabulary（10-15 分）
 
-核心記憶線：
+用故事鏈回想：
 
-`team → problem → number ↓ → change → turn screen → save → not cancel`
+`problem → pressure → cancel? → change → develop a system → opinions → survive`
 
-先讓學生照故事順序自己說一次，再看表格補中文。
+做法：
+1. 蓋住中文。
+2. 老師指一個詞，學生說中文或用簡單英文解釋。
+3. 再把整條故事鏈講一次。
+
+如果 `change / problem` 已經非常熟，可快速帶過，把時間留給六個 800 字。
 
 ### 4. Reading Questions（10-15 分）
 
-- Q1 主旨
-- Q2 細節
-- Q3 context clue：`cancel`
-- Q4 細節
-- Q5 因果
+- Q1 主旨整合
+- Q2 因果：pressure
+- Q3 細節：develop
+- Q4 fact vs opinion
+- Q5 context：survive
 - Q6 圖表資訊
-- Q7 故事推論
+- Q7 推論／故事 lesson
 
-如果 Q3 不會，不要直接翻譯 `cancel`；先叫他回去看前後句 `save it or stop it`。
+Q4 特別值得停一下：讓學生分辨 **fact** 和 **opinion**。
 
 ---
 
 ## Pronunciation Lab（10-15 分）
 
-### 教學原則
+### 原則
 
-- **學生頁完全不用 IPA。**
-- 每招先示範嘴巴動作，再讓學生看字做。
-- 不要求中文擬音百分之百像英文；重點是嘴型位置和「不要犯哪個錯」。
+- **學生頁不用 IPA。**
+- 先讓學生看字猜，再示範嘴型與重音。
+- 中文提示只當橋，不要求用中文硬湊完整英文發音。
 
-### 四招
+### 本週核心字直接拿來練
 
-1. **尾音煞車**：`stop / book`
-   - 最後做到 t/k/p 的位置就停，不多一個「ㄜ」。
-2. **字尾 L**：`school / cancel`
-   - 舌尖碰上排門牙後方，不滑成「歐」。
-3. **TH**：`think / this`
-   - 舌尖在牙齒中間；think 送氣，this 同嘴型但有聲音。
-4. **V**：`save / move`
-   - 上排牙齒輕碰下嘴唇，不要變 W。
+1. **develop → de-VEL-op**
+   - 重音在中間。
+   - 最後 `p` 嘴唇合起來收住，不多一個「ㄜ」。
+2. **cancel → CAN-cel**
+   - 最後 L 舌尖碰上排門牙後方，不滑成「歐」。
+3. **survive → sur-VIVE**
+   - 兩個 `v` 都是上牙輕碰下唇。
+4. **pressure → PRES-sure / opinion → o-PIN-ion**
+   - 用大寫讓學生感覺重音位置，不教符號。
+5. **TH** 用 `think / this` 補充嘴型。
 
-### 🔓 Unseen transfer，老師一定先閉嘴
+### 🔓 Unseen transfer：老師先不要念
 
-依序給學生看：
+- `bath` → TH
+- `vest` → V
+- `cup` → final p 尾音煞車
+- `mail` → final L
 
-- `bath` → 主要看 **TH**（在字尾）
-- `vest` → 主要看 **V**；也可觀察最後 t 有沒有多加母音
-- `desk` → 看 **尾音 k 煞車**
-- `mail` → 看 **字尾 L**
+流程：學生先讀 → 說自己用了哪一招 → 老師才修正。
 
-流程：
-
-1. 老師不要先念。
-2. 學生先讀。
-3. 問：「你用了哪一招？」
-4. 再由老師示範、修嘴型。
-
-**評量點：** 即使聲音還不完美，只要他能主動抓到規則並做對嘴型，就算有 transfer。
+**評量的是 transfer，不是第一次就像母語者。**
 
 ---
 
 ## Grammar（20-25 分）
 
-### 核心只抓一條
+核心一句：
 
 > 現在正在做 → **am / is / are + V-ing**
 
-先辨認提示字：`now / right now / at the moment / Look! / Listen!`
+### V-ing 三招直接串本週字
 
-### V-ing 三招
-
-- turn → turning
-- save → saving
+- develop → developing
+- survive → surviving
 - stop → stopping
 
-### 三個必抓錯誤
+### 必抓三錯
 
-1. 漏 be：`The team changing...`
-2. be 後仍原形：`They are turn...`
-3. 主詞與 be 不合：`The players is...`
+1. 漏 be：`The team developing...`
+2. be 後仍原形：`They are change...`
+3. 主詞／be 不合：`The players is...`
 
-做 Part 6 時，先讓學生口頭說「主詞 → be → ing」，再寫。
+Part 6 B 題讓學生先圈出 `Look! / right now / Listen! / at the moment / now` 再答。
 
 ---
 
 ## Speaking（5-10 分）
 
-Part 7 不要求固定答案，只要求：
+Part 7 只抓兩件事：
 
-- 句子有正確 `am/is/are`
-- 主要動詞有 `-ing`
-- 意思和 Brawl Stars 情境合理
+- `am / is / are + V-ing` 正確
+- 至少主動用到 2 個本週核心字，例如 `develop / system / opinion / cancel / change`
 
-如果學生很順，可以追問：
-
-- What are players doing now?
-- Why is the team changing the game?
+若很順，可追問：
+- Why is the team under pressure?
+- What opinions are old players sharing?
+- How is the team changing the game?
 
 ---
 
-## Homework 說明
+## Homework
 
-- Homework 只複習本週 8 個 core words + 現在進行式。
-- `bath / vest / desk / mail` **不要變成單字作業**，它們只負責 pronunciation transfer。
+- Homework 正式複習 8 個 core words + 現在進行式。
+- `bath / vest / cup / mail` 只做 pronunciation transfer，不列入本週背誦單字。
 
 ---
 
 ## Exit Ticket
 
-下課前不看講義問三題：
+不看講義問：
 
-1. `cancel` 是什麼意思？
+1. 用自己的話說 `pressure / opinion / survive` 任兩個。
 2. 現在進行式公式？
-3. 給一個沒示範過、帶 V 或 TH 的簡單字，請他先自己試念並說出嘴巴規則。
+3. 給一個沒示範過、含 TH / V / final L / final stop 的簡單字，讓他先念再說使用哪個規則。
