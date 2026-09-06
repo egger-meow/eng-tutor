@@ -1,70 +1,150 @@
-# Week 5 教師教學指引：Brawl Stars: The Turning Point
+# Week 5 教師教學指引：Brawl Stars: Save the Game
 
-**定位：** 課前快速掃過的 cheat sheet<br>
-**文法：** 現在進行式（am / is / are + V-ing：肯定、否定、疑問與字尾變化規則）<br>
-**發音特訓：** 台灣人最常犯的 4 大發音陷阱（尾音煞車、Dark L 舌尖頂顎、TH 咬舌、輕重音與弱化母音）<br>
-**核心單字：** 12 個（教育部 800 級進階常用字，拉高學習價值：develop, unique, decrease, pressure, cancel, doubt, system, opinion, complain, negative, positive, survive）
-
----
-
-## Lesson Flow（約 95-115 分鐘）
-
-| 時間 | Section | 教學做法與引導指令 |
-| --- | --- | --- |
-| 5-10 分 | Warm-up | 聊遊戲互動：「你有玩過荒野亂鬥嗎？你覺得手機拿『直的』玩好操控，還是拿『橫的』好操控？」引導帶出直式（portrait）與橫式（landscape）螢幕的體感差異。 |
-| 25-30 分 | Reading | 帶讀故事，聚焦 Supercell 高標準砍專案的文化；在第 4 段暫停問：「留存率一直 decrease，管理層給予 heavy pressure，如果是你會怎麼做？」強調「Landscape or kill the game」的破釜沉舟。 |
-| 15 分 | Comprehension | 請學生作答並在文章中**用螢光筆畫出決定性證據**；特別比對第 1 題全文主旨與第 7 題核心啟示（大膽改革與新控制系統讓危機轉為轉機）。 |
-| 15-20 分 | Pronunciation | **本週特訓核心**：依序演練 4 大陷阱，用動作與口訣建立肌肉記憶（手比煞車手勢、檢查門牙咬舌尖、上門牙咬下唇發 V、拍手打重音節奏），最後進行 60 秒挑戰驗收。 |
-| 20 分 | Grammar | 帶入「有 be 才有 ing」口訣。依序解析：Trigger（信號詞 Look/Listen/now）→ Pattern（句型骨架）→ Traps（雙動詞打架、狀態動詞 doubt/know 不用 ing）→ Try（雙寫與去 e 規則）。 |
-| 15 分 | Practice | 動詞字尾變化規則（去 e、雙寫、直接加 ing）即時挑錯；演練 4 題會考情境題。 |
-| 10-15 分 | Speaking | 角色扮演 Supercell 開發者緊急會議，用現在進行式描述遊戲現場與雙大拇指操作。 |
-| 5 分 | Homework | 說明回家作業中的「🎙️ 錄音挑戰」，提醒用手機錄音確認三句發音陷阱皆已排除。 |
+**定位：** 課前 3 分鐘可掃完的 cheat sheet<br>
+**文法：** 現在進行式（am / is / are + V-ing）<br>
+**發音：** 不教 IPA；用嘴巴動作 + 易讀提示 + unseen transfer<br>
+**核心單字：** 8 個：`change, number, problem, save, screen, team, turn`（1200）+ `cancel`（800）
 
 ---
 
-## Pronunciation Coaching Moves（發音教學心法）
+## 本週設計校準
 
-1. **Trap 1 尾音煞車手勢與 silent letter：**
-   - 單字 `doubt` 的 `b` 是 **silent letter（不發音）**！絕不能唸成 "doub-ter"，字尾 `t` 舌尖頂住上牙齦立刻閉氣煞車（/daʊt/）。
-   - 單字 `unique` 唸成 **you-NEEK**（/juˈniːk/），重音在後，字尾 `k` 喉嚨瞬間截斷氣流。
-2. **Trap 2 Dark L「舌尖上頂」：**
-   - 告別「控肉（control）」與「看瘦（cancel）」。
-   - 教法：請學生張開嘴巴照鏡子或手機，要求結尾發音時**舌尖一定要主動從口腔底部升起，用力頂在「上排門牙後方的硬牙肉」**，嘴唇切記不能噘成圓形！
-3. **Trap 3 TH 咬舌尖與 V 咬下唇：**
-   - 單字 `survive`（/sərˈvaɪv/）有兩個 `v`，很多學生會發成 `w`（瑟歪五）。
-   - 教法：要求「上排門牙輕咬下嘴唇內側」，帶動聲帶振動發出摩擦音。
-4. **Trap 4 節拍大對決（重音與弱化母音）：**
-   - `develop`：重音在中間節拍（de-**VEL**-op），不是 DE-ve-lop。
-   - `opinion`：第一個音節必須弱化成模糊的 /ə/（uh-**PIN**-yun），不是 O-pi-nion。
-   - `positive` / `negative`：重音在第一音節，後面輕快帶過。
+- 上一版 12 個全 800 級拉太快，本版改成 **7 個 1200 + 1 個 800**。
+- 不追求「這週比上週更難」，追求學生真正能吸收、能在閱讀中反覆叫回來。
+- Reading 切成四個 story beats，利用 Problem box、Before/After、Big Decision 降低文字牆感。
+- Pronunciation 的成功標準不是會看音標，而是**看到沒示範過的字也敢套規則念**。
 
 ---
 
-## Grammar Traps & Key Rules
+## 建議課程流程（約 90-120 分鐘）
 
-- **規則 3 雙寫陷阱判斷：**
-  - `run` ➔ `running`（單一短母音 u + 單一子音 n ➔ 雙寫）
-  - `stop` ➔ `stopping`（單一短母音 o + 單一子音 p ➔ 雙寫）
-  - `win` ➔ `winning`（單一短母音 i + 單一子音 n ➔ 雙寫）
-- **狀態動詞不能進行：**
-  - 表示知覺、心智狀態、所有權的動詞：`doubt`（懷疑）、`know`（知道）、`like`（喜歡）、`want`（想要）等通常不可以用 `am/is/are + V-ing`。
-  - 例：*I am knowing your opinion.* ❌ ➔ *I know your opinion.* ✅
+### 1. Warm-up + 上週複習（15-25 分）
+
+- 快問上週文法與單字，不要拖太久。
+- 問：「你知道 Brawl Stars 一開始差點被砍掉嗎？」當 reading hook。
+
+### 2. Reading（20-25 分）
+
+四段各停一次：
+
+1. **The Test**：先抓 `number / team / problem`。
+2. **Save It or Stop It?**：確認 `cancel / save / change`。
+3. **One Big Change**：讓 Jonathan 自己讀 Before/After table，問「真正改了什麼？」
+4. **It Worked**：確認因果鏈：problem → change → more players stay → save game。
+
+**不要先把全部新字講完再讀。** 遇到才教，閱讀完再用 Part 2 整理。
+
+### 3. Vocabulary（10-15 分）
+
+核心記憶線：
+
+`team → problem → number ↓ → change → turn screen → save → not cancel`
+
+先讓學生照故事順序自己說一次，再看表格補中文。
+
+### 4. Reading Questions（10-15 分）
+
+- Q1 主旨
+- Q2 細節
+- Q3 context clue：`cancel`
+- Q4 細節
+- Q5 因果
+- Q6 圖表資訊
+- Q7 故事推論
+
+如果 Q3 不會，不要直接翻譯 `cancel`；先叫他回去看前後句 `save it or stop it`。
 
 ---
 
-## Quick Answers
+## Pronunciation Lab（10-15 分）
 
-- **Reading Comprehension：** 1.B, 2.C, 3.B, 4.B, 5.A, 6.B, 7.C
-- **Grammar Practice A：** developing, surviving, decreasing, complaining, stopping, winning
-- **Grammar Practice B：** 1. are complaining, 2. develops, 3. is giving, 4. are decreasing, 5. knows, 6. is surviving
-- **Grammar Practice C (CAP)：** 1.B, 2.B, 3.C, 4.C
-- **Homework A：** 1.E, 2.D, 3.F, 4.B, 5.C, 6.A
-- **Homework B：** 7. doubt, 8. cancel, 9. opinion, 10. system, 11. negative, 12. positive
-- **Homework C：** 13.B, 14.A, 15.B, 16.B
+### 教學原則
+
+- **學生頁完全不用 IPA。**
+- 每招先示範嘴巴動作，再讓學生看字做。
+- 不要求中文擬音百分之百像英文；重點是嘴型位置和「不要犯哪個錯」。
+
+### 四招
+
+1. **尾音煞車**：`stop / book`
+   - 最後做到 t/k/p 的位置就停，不多一個「ㄜ」。
+2. **字尾 L**：`school / cancel`
+   - 舌尖碰上排門牙後方，不滑成「歐」。
+3. **TH**：`think / this`
+   - 舌尖在牙齒中間；think 送氣，this 同嘴型但有聲音。
+4. **V**：`save / move`
+   - 上排牙齒輕碰下嘴唇，不要變 W。
+
+### 🔓 Unseen transfer，老師一定先閉嘴
+
+依序給學生看：
+
+- `bath` → 主要看 **TH**（在字尾）
+- `vest` → 主要看 **V**；也可觀察最後 t 有沒有多加母音
+- `desk` → 看 **尾音 k 煞車**
+- `mail` → 看 **字尾 L**
+
+流程：
+
+1. 老師不要先念。
+2. 學生先讀。
+3. 問：「你用了哪一招？」
+4. 再由老師示範、修嘴型。
+
+**評量點：** 即使聲音還不完美，只要他能主動抓到規則並做對嘴型，就算有 transfer。
 
 ---
 
-## After Class
+## Grammar（20-25 分）
 
-- 課後檢視 Jonathan 錄音作業與發音習慣改善情況。
-- 實際教過後，於 `progress-log.md` 記錄課堂反應與成果，並將 `weekly-index.csv` 狀態改為 `taught`。
+### 核心只抓一條
+
+> 現在正在做 → **am / is / are + V-ing**
+
+先辨認提示字：`now / right now / at the moment / Look! / Listen!`
+
+### V-ing 三招
+
+- turn → turning
+- save → saving
+- stop → stopping
+
+### 三個必抓錯誤
+
+1. 漏 be：`The team changing...`
+2. be 後仍原形：`They are turn...`
+3. 主詞與 be 不合：`The players is...`
+
+做 Part 6 時，先讓學生口頭說「主詞 → be → ing」，再寫。
+
+---
+
+## Speaking（5-10 分）
+
+Part 7 不要求固定答案，只要求：
+
+- 句子有正確 `am/is/are`
+- 主要動詞有 `-ing`
+- 意思和 Brawl Stars 情境合理
+
+如果學生很順，可以追問：
+
+- What are players doing now?
+- Why is the team changing the game?
+
+---
+
+## Homework 說明
+
+- Homework 只複習本週 8 個 core words + 現在進行式。
+- `bath / vest / desk / mail` **不要變成單字作業**，它們只負責 pronunciation transfer。
+
+---
+
+## Exit Ticket
+
+下課前不看講義問三題：
+
+1. `cancel` 是什麼意思？
+2. 現在進行式公式？
+3. 給一個沒示範過、帶 V 或 TH 的簡單字，請他先自己試念並說出嘴巴規則。
