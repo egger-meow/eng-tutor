@@ -49,6 +49,17 @@ Write concise Markdown with descriptive headings and fenced code blocks for exam
      - (b) Rewrite it using simple, plain English (e.g., use `show` instead of `demonstration`, `bad stranger` instead of `suspicious stranger`, `student` instead of `apprentice`, `without weapons` instead of `unarmed`).
 3. **Mandatory Word-by-Word Pre-Scan**:
    - Before finalizing any worksheet, scan every single word in the text and questions against this ceiling rule. If any non-core word feels moderately advanced, replace it with a simpler word immediately.
+4. **Narrow Pronunciation-Transfer Exception**:
+   - A clearly labeled pronunciation-only transfer check may contain **2-5 previously unmodeled, common, decodable words** that are not Core Vocabulary, solely to test whether the learner can apply a pronunciation rule to a new word.
+   - These transfer words MUST stay out of the reading, comprehension, grammar, speaking, and Homework vocabulary work; do not teach their meanings or count them as weekly vocabulary.
+   - The teacher must not pronounce the transfer words before the learner attempts them. The Teacher Guide / Answer Key must identify the sound rule being tested.
+   - This exception does not permit hidden advanced vocabulary anywhere else.
+
+## Student-Facing Pronunciation & Reading Layout
+
+- **Do not use IPA or specialist phonetic symbols by default in the Student Handout.** Unless the learner is explicitly studying IPA, teach pronunciation with ordinary letters, easy stress cues (for example `a-BOUT`), short Traditional-Chinese mouth-position instructions, and one clear common mistake at a time.
+- Pronunciation teaching should aim for transfer: `see a new word -> try a rule -> say it aloud`, not memorizing a phonetic notation system.
+- Keep readings visually scannable. Break long stories into 3-5 short titled beats or scenes, and use a compact callout, mini-table, quote, or decision box when it genuinely helps comprehension. Avoid uninterrupted walls of similarly sized paragraphs.
 
 ## Testing Guidelines
 
