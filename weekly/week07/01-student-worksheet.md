@@ -1,7 +1,7 @@
 # Week 7 Student Quest: Escape Room Team
 
-**主題：** Roblox 密室活動 - 讀邀請、看規則、做正確決定  
-**文法重點：** Commands / Let's / can / can't  
+**主題：** Roblox 密室活動 - 讀邀請、看規則、做正確決定<br>
+**文法重點：** Commands / Let's / can / can't<br>
 **核心單字：** 9 個（4 個 1200 級 + 5 個 800 級）
 
 ---
@@ -44,9 +44,9 @@
 
 ### Text A - Leo's Message
 
-> **To: Team Moon**  
-> **From: Leo**  
-> **Time: 6:10 p.m.**  
+> **To: Team Moon**<br>
+> **From: Leo**<br>
+> **Time: 6:10 p.m.**<br>
 > Meet me at the Roblox Escape Room at 7:00. We have 30 minutes to get out. Please enter Room 12 together. Do not choose a door before everyone reads the directions. Mia is good at maps. Ben can find small things. I can read number signs. Let's use our best skills and protect the team.
 
 ### Text B - Room 12 Rules
@@ -62,10 +62,10 @@
 
 ### Text C - Team Chat at 7:18
 
-> **Mia:** I see two doors. The left door has a red star. The right door has a blue light.  
-> **Ben:** There is a black box by the left door. Maybe the number is in it.  
-> **Leo:** Don't touch it. The rules say no. Read the wall by the blue light.  
-> **Mia:** The wall says, “Red first, blue last.”  
+> **Mia:** I see two doors. The left door has a red star. The right door has a blue light.<br>
+> **Ben:** There is a black box by the left door. Maybe the number is in it.<br>
+> **Leo:** Don't touch it. The rules say no. Read the wall by the blue light.<br>
+> **Mia:** The wall says, “Red first, blue last.”<br>
 > **Ben:** Then let's follow the red star. We can choose the left door, but we must not touch the box.
 
 ### Evidence Organizer
@@ -84,58 +84,58 @@
 
 1. What is the main idea of Leo's message?
 
-   A. He tells the team when to meet and how to work together.  
-   B. He asks Mia to play alone before 7:00.  
-   C. He tells Ben to choose any door at 6:10.  
+   A. He tells the team when to meet and how to work together.<br>
+   B. He asks Mia to play alone before 7:00.<br>
+   C. He tells Ben to choose any door at 6:10.<br>
    D. He asks the team to make a new Roblox room.
 
 2. Why does Leo say, “Let's use our best skills”?
 
-   A. Every player can help the team in a different way.  
-   B. The team can ask for many directions.  
-   C. Every player can enter a different room.  
+   A. Every player can help the team in a different way.<br>
+   B. The team can ask for many directions.<br>
+   C. Every player can enter a different room.<br>
    D. The team has no time to read the rules.
 
 3. What should a player do when a blue light comes on?
 
-   A. Touch the black box.  
-   B. Go back to the first room.  
-   C. Stop and read the wall.  
+   A. Touch the black box.<br>
+   B. Go back to the first room.<br>
+   C. Stop and read the wall.<br>
    D. Choose the nearest door.
 
 4. In Text B, what does **secret** most likely mean?
 
-   A. Not open now  
-   B. Not easy to know or find  
-   C. Not safe for any team  
+   A. Not open now<br>
+   B. Not easy to know or find<br>
+   C. Not safe for any team<br>
    D. Not part of the room
 
 5. Which player has an idea that does **not** follow the rules?
 
-   A. Mia, because she sees two doors.  
-   B. Ben, because he wants to look in the black box.  
-   C. Leo, because he reads number signs.  
+   A. Mia, because she sees two doors.<br>
+   B. Ben, because he wants to look in the black box.<br>
+   C. Leo, because he reads number signs.<br>
    D. Mia, because she reads the wall.
 
 6. Which door should the team choose at 7:18?
 
-   A. The left door, because the wall says red first.  
-   B. The right door, because blue means go.  
-   C. The left door, because the black box is safe.  
+   A. The left door, because the wall says red first.<br>
+   B. The right door, because blue means go.<br>
+   C. The left door, because the black box is safe.<br>
    D. The right door, because they can go back.
 
 7. Which is true about the team?
 
-   A. They enter Room 12 one by one.  
-   B. They use their different skills to make a choice.  
-   C. They ask for two directions before 7:18.  
+   A. They enter Room 12 one by one.<br>
+   B. They use their different skills to make a choice.<br>
+   C. They ask for two directions before 7:18.<br>
    D. They choose a door before reading the wall.
 
 8. What may happen if the team chooses the wrong door?
 
-   A. They may not be able to go back.  
-   B. They can get one more direction.  
-   C. They can start again at 6:10.  
+   A. They may not be able to go back.<br>
+   B. They can get one more direction.<br>
+   C. They can start again at 6:10.<br>
    D. They may enter with a new team.
 
 ### Evidence Check
@@ -183,13 +183,13 @@ Evidence 2: _________________________________________________________________
 
 看到情境，選最自然的工具。
 
-1. 牆上的正式規則，要大家停下：  
+1. 牆上的正式規則，要大家停下：<br>
    A. Stop.　B. Let's stop.　C. We can stop.　D. Stopping.
 
-2. 你提議全隊一起讀訊息：  
+2. 你提議全隊一起讀訊息：<br>
    A. Read the message.　B. Don't read the message.　C. Let's read the message.　D. We can't read the message.
 
-3. 規則說玩家不可以碰箱子：  
+3. 規則說玩家不可以碰箱子：<br>
    A. Players can touch the box.　B. Players can't touch the box.　C. Let's touch the box.　D. Touch the box.
 
 ---
@@ -230,23 +230,23 @@ Word bank: `enter` `follow` `touch` `read` `choose`
 
 6. Which sentence is correct?
 
-   A. Let's follows the red signs.  
-   B. We can choosing the left door.  
-   C. Don't touch the black box.  
+   A. Let's follows the red signs.<br>
+   B. We can choosing the left door.<br>
+   C. Don't touch the black box.<br>
    D. Mia can reads maps.
 
 ### C. Fix the team chat
 
-1. Let's follows the directions.  
+1. Let's follows the directions.<br>
    → ______________________________________________________________________
 
-2. Ben can to find small things.  
+2. Ben can to find small things.<br>
    → ______________________________________________________________________
 
-3. Don't choosing a door now.  
+3. Don't choosing a door now.<br>
    → ______________________________________________________________________
 
-4. Mia cans read maps.  
+4. Mia cans read maps.<br>
    → ______________________________________________________________________
 
 ---
@@ -255,9 +255,9 @@ Word bank: `enter` `follow` `touch` `read` `choose`
 
 Your team sees this new sign:
 
-> **GREEN ROOM**  
-> One player can enter. Two players must wait.  
-> Do not close the door.  
+> **GREEN ROOM**<br>
+> One player can enter. Two players must wait.<br>
+> Do not close the door.<br>
 > A red key is under a map.
 
 先和老師討論，再寫下四句隊伍指示：
@@ -273,24 +273,24 @@ Your team sees this new sign:
 
 ### A. Match the words
 
-1. choose　　 A. 保護  
-2. enter　　　B. 訊息  
-3. follow　　 C. 選擇  
-4. rule　　　 D. 進入  
-5. danger　　 E. 秘密的  
-6. direction　F. 遵守；跟隨  
-7. message　　G. 規則  
-8. protect　　H. 危險  
+1. choose　　 A. 保護<br>
+2. enter　　　B. 訊息<br>
+3. follow　　 C. 選擇<br>
+4. rule　　　 D. 進入<br>
+5. danger　　 E. 秘密的<br>
+6. direction　F. 遵守；跟隨<br>
+7. message　　G. 規則<br>
+8. protect　　H. 危險<br>
 9. secret　　 I. 指示；方向
 
 ### B. Complete the short message
 
 Word bank: `choose` `enter` `follow` `rule` `danger` `direction` `message` `protect` `secret`
 
-> Read this ____________________ before you ____________________ the room.  
-> ____________________ every ____________________. A blue light means  
-> ____________________. Ask for one ____________________ if you need help.  
-> Work together to ____________________ your team. Then ____________________  
+> Read this ____________________ before you ____________________ the room.<br>
+> ____________________ every ____________________. A blue light means<br>
+> ____________________. Ask for one ____________________ if you need help.<br>
+> Work together to ____________________ your team. Then ____________________<br>
 > the ____________________ door.
 
 ### C. Grammar retrieval
@@ -307,9 +307,9 @@ Word bank: `choose` `enter` `follow` `rule` `danger` `direction` `message` `prot
 
 What is the best way to follow the new rule?
 
-A. The first player reads the map and tells everyone the answer.  
-B. The first player closes the map and asks every question.  
-C. The first player reads the map; the team asks questions, and the player can move their head for yes or no.  
+A. The first player reads the map and tells everyone the answer.<br>
+B. The first player closes the map and asks every question.<br>
+C. The first player reads the map; the team asks questions, and the player can move their head for yes or no.<br>
 D. Every player reads the map and speaks at the same time.
 
 Write one line from the rule that supports your answer:

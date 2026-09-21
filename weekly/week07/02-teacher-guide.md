@@ -1,7 +1,7 @@
 # Week 7 Teacher Guide: Escape Room Team
 
-**Outcome:** 學生能整合邀請訊息、規則卡與隊伍對話，依文字證據做決定；能分辨 command、`Let's`、`can/can't` 的溝通功能。  
-**CAP focus:** 主旨、細節、推論、文意猜字、跨文本整合、證據回指。  
+**Outcome:** 學生能整合邀請訊息、規則卡與隊伍對話，依文字證據做決定；能分辨 command、`Let's`、`can/can't` 的溝通功能。<br>
+**CAP focus:** 主旨、細節、推論、文意猜字、跨文本整合、證據回指。<br>
 **設計變化:** 本週以「決策」為主線，先讀任務、填 evidence organizer，再作答；不走長篇故事或影片時間卡。
 
 ---
