@@ -5,17 +5,17 @@
 | 題號 | 答案 | 依據與判讀 |
 | --- | --- | --- |
 | 1 | C | A1 提出第四世界消息；A2–A3 提醒分清遊戲與時間。其他選項為混淆、虛構地圖或無依據說法。 |
-| 2 | A | A2 明列 Java / Bedrock 的 2027；2026-09-26 是活動日期。 |
-| 3 | B | company 的 report 能供人讀取、了解新聞；後句說它載明遊戲與年份。 |
-| 4 | D | Leo 說影片是 Dungeons II，但自己玩 Java。May 要他先確認遊戲名。 |
-| 5 | C | Leo 自己打算製作地圖、小屋和藍河；不是官方 Sift 功能。 |
-| 6 | B | create → test → improve → share。對話最後明說 share after test；中段說 test first, then improve。 |
-| 7 | A | A3 只有年，未提供月日。不能把沒有寫出的日子當成公告。 |
+| 2 | A | A2 明列 Java/Bedrock 的 2027；2026-09-26 是活動日期。 |
+| 3 | B | company 的 report 能供人讀取、了解新聞；後句載明遊戲與年份。 |
+| 4 | D | Leo 說影片是 Dungeons II，但自己玩 Java。May 指出兩者不同。 |
+| 5 | C | Leo 自己安排地圖、小屋和藍河；不是官方 Sift 功能。B 的 When I create ... I will put ... 支持此選項。 |
+| 6 | B | create → test → improve → share。B 最後明說 share after we test and improve。 |
+| 7 | A | A3 只給年，未提供月日；沒有寫出的日子不能當作公告。 |
 | 8 | D | May 不會把自己的地圖稱為 Sift，會明說是自己的想法。不能推斷她從不看影片、任職 Mojang 或已玩到 Java 的 Sift。 |
 
 依據回指：
 
-- 第 4 題可圈 Leo 的 “Oh, it says Minecraft Dungeons II. I play Minecraft Java. Are they the same game?”，或連同 May 的 “No.”。只圈泛泛的 Let's read ... 不足以直接支持遊戲不同。
+- 第 4 題可圈 Leo 的 “Oh, it says Minecraft Dungeons II. I play Minecraft Java. Are they the same game?” 或 May 的 “Because they are different games, let's read the company's report first.”。
 - 第 7 題畫線 A3 的 “The report gives a year for Java and Bedrock, but it does not give a day or a month.”。
 
 ## Words & Phrases
@@ -26,67 +26,89 @@
 
 ## 發音遷移
 
-ship / shop / shed：三字皆測 **起首 sh 為連續氣流的單一聲音**。用普通字母和嘴型提示，不要求 IPA。只評 sh 與是否添加母音；第一次自行試讀才是本次遷移觀察，老師示範後再讀是練習。三字不考意思、不列核心、不進作業。
+ship/shop/shed 均測起首 sh 的連續氣流與是否添加母音；不要求 IPA，不教意思，不進作業。只把第一次自行試讀當本次遷移觀察，老師示範後再讀是練習。
 
-## 文法 G1–G8
+## Grammar 頁面內的小任務
+
+Grammar 1 箭頭：**test → share**。after 後面那件事先完成，主要安排 share 在後。
+
+## G1–G6：依情境選連接方式
 
 | 題號 | 答案 | 原因 |
 | --- | --- | --- |
-| G1 | read | will + 原形。 |
-| G2 | share | won't + 原形。 |
-| G3 | create | Will + 主詞 + 原形。 |
-| G4 | be | There will be，不隨後方單複數變成 is/are。 |
-| G5 | play | does 後原形。 |
-| G6 | test | did 後原形。 |
-| G7 | is watching | May 單數；Look / now 表示正在看。 |
-| G8 | plays | every Saturday 為習慣；Leo 第三人稱單數。 |
+| G1 | B（so） | 前面是原因「自己的地圖」，後面是結果「不叫它 Sift」。 |
+| G2 | A（after） | 題目指定先 test 再 share；share 放主句，後接 after we test。if 可形成另一個條件句，但未表達原題要求的明確先後。 |
+| G3 | D（If） | 情境明說不一定有空、有空才測試；提出條件。 |
+| G4 | C（because） | 前面是結果「不分享」，後面補原因「不知道遊戲名」。 |
+| G5 | D | Before I make the video, I will read the report. 表示先讀再拍；A/B/C 都把拍片放在讀報導之前。 |
+| G6 | B | 直接問未來時間：When + will + 主詞 + 原形。不是 when 時間子句。 |
 
-## 文法 G9–G15
+## G7–G12：兩邊的動詞
 
-| 題號 | 完整答案 |
-| --- | --- |
-| G9 | He will create a new map. |
-| G10 | Will you test it? |
-| G11 | There will be two players. |
-| G12 | Does she share game news? |
-| G13 | Will you read the report tonight? |
-| G14 | Yes, he will. |
-| G15 | No, she won't. / No, she will not. |
+| 題號 | 答案 | 原因 |
+| --- | --- | --- |
+| G7 | creates | when 時間子句用現在式；Leo 為第三人稱單數。 |
+| G8 | has | if 條件句用現在式；May 為第三人稱單數。 |
+| G9 | shares | before 時間子句用現在式；he 後加 s。 |
+| G10 | will improve | 後面是主要安排，前面的 after they test 才是時間子句。可接受自然的其他未來表達，再請學生另用本課 will 句型說一次。 |
+| G11 | doesn't / does not | map 單數，否定助動詞用 doesn't；後面 work 已經是原形。 |
+| G12 | makes | before 時間子句用現在式；May 後加 s。 |
 
-G14–G15 要求用 B 的人稱與訊息回答，不用 I / you 取代 he / she。所有書寫題可接受相同語意、正確縮寫與大小寫標點的合理變體。
+## G13–G16：改正畫底線處
 
-## Speaking（開放題）
+| 題號 | 寫在空格的答案 | 改正後的整句 |
+| --- | --- | --- |
+| G13 | has | If he has time tomorrow, he will play. |
+| G14 | gets | When she gets home, she will read the news. |
+| G15 | share | After we test the map, we will share it. |
+| G16 | we | Because it is our own map, we won't call it the Sift. |
+
+G16 也可刪掉句首 Because，保留 so，得到另一個正確因果句；但本題要求只改畫底線處，所以空格填 we。
+
+## G17–G22：寫句、合併與等義改寫
+
+| 題號 | 參考答案 | 檢查重點 |
+| --- | --- | --- |
+| G17 | I won't share the video because I don't know the game name. | because 後面接原因。 |
+| G18 | We will make a video after we read the report. | 先讀再拍；after 子句不用 will。 |
+| G19 | If May has time tomorrow, she will test the map. | if 條件、has、will test。 |
+| G20 | This is our own map, so we will call it our idea. | 原因先、結果後；不多加 because。 |
+| G21 | I will share the map after I test it. | 換 after 時也調換兩個動作；仍先測試再分享。 |
+| G22 | I don't know the game name, so I won't share the video. | 換 so 時調整原因與結果的位置；保留原意。 |
+
+可接受同義表達、正確縮寫與時間片語移位。G21 可寫 After I test the map, I will share it.；不可只把 before 改 after 卻保留原本兩個動作位置。G18 原題保留 we，不因對話人物而強迫換 he/she。
+
+## Speak：實況製作安排（開放題）
 
 示範僅供老師參考，不印在學生 PDF：
 
-“I will create a map with a small house. I will test it first. Then I will improve it. This is my idea for a new world.”
+“Before I share my map, I will test it. If May has time, we will play together. I will read the report because I want to know the game name. This map is my own idea.”
 
-追問可答 “No, I won't. I will share it this weekend.”，或任何與自己的安排一致的正確答案。
+追問「朋友明天沒空怎辦？」可答 “If May doesn't have time tomorrow, I will test the map with Leo.” 或任何合理安排。
 
-觀察三件事：will 後原形、能以 will/won't 短答、把自己設計與官方消息分清。不要因地圖設計與老師不同扣分。
+觀察：因果方向、先後、if 條件是否合理；時間／條件子句現在式與第三人稱；主句原形；能否面對新條件調整內容。不得只因設計不同扣分。
 
 ## Homework
 
 ### Day 1
 
-玩家 player；公司 company；簡單的 simple；分享 share；創造 create；測試 test；改進 improve；新聞 news；報導 report；未來 future。
-
-重寫兩字由學生自行選擇，不指定唯一答案。
+玩家 player；公司 company；簡單的 simple；分享 share；創造 create；測試 test；改進 improve；新聞 news；報導 report；未來 future。重寫兩字自行選擇。
 
 ### Day 2
 
 - H1 news；H2 report；H3 future；H4 share。
-- H5 Yes, I will. / No, I won't.，依學生真實回答。
-- H6 開放答案，如 I will play Minecraft this weekend.，必須有主詞、will、原形動詞；不要求實際一定去玩。
+- H5 I will read the report before I share the news. / Before I share the news, I will read the report. 必須先讀再分享。
+- H6 如 If my friend has time, we will play together. 主詞 my friend 單數；接受其他合理人稱與安排。
 
 ### Day 3
 
-- H7 She will share the video.
-- H8 Did he play yesterday?
-- H9 Will there be a house?
-- H10 確認影片是哪款遊戲／哪個版本；確認該遊戲安排的時間。可答「先看遊戲名，再看官方報導的年份或時間」；只說先問朋友、先看留言，沒有觸及遊戲與時間，需追問。
-- H11 2027；A 沒有提供確切月份與日期。不能推論所有公告管道都沒有月日。
+- H7 shares。完整句：Before she shares the video, she will read the report.
+- H8 has。完整句：If he has time, he will test the map.
+- H9 we。完整句：Because this is our idea, we will call it our map.
+- H10 確認影片是哪款遊戲／版本，以及該遊戲安排的時間。只說先看留言而沒確認兩項資訊，需要追問。
+- H11 2027；A 沒有提供確切月日。不推論所有官方管道都沒有日期。
+- H12 開放答案，如 I will read the report because I want to know the game name. / I want to know the game name, so I will read the report. 檢查因果方向與連接詞，不要求逐字相同。
 
 ## 評量邊界
 
-本次只是備課，沒有學生實際分數。閱讀 8 題可各 1 分；文法與口說以錯誤類型紀錄，不用總分推定整體能力。新聞事實依 2026-10-14 查核的官方來源；B 的人物、標語、地圖與說話皆為教學虛構。
+本次是備課修訂，沒有學生分數。閱讀 8 題、文法 22 題可各 1 分；其他未來表達或正確改寫不僵硬判錯。分類記錄原因／結果、先後、子句動詞及新條件口說，不能只用總分推定能力。will 已教的紀錄來自使用者確認；連接詞與條件句仍待授課。
