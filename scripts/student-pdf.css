@@ -1,0 +1,49 @@
+/* Shared print system: restrained headings, readable paper, semantic diagrams. */
+@page { size: A4; margin: 14mm 15mm 16mm; }
+:root { --ink: #243b47; --heading: #234d59; --accent: #387f80; --line: #d3e0e2; --paper-tint: #f3f8f8; --warm: #fff8ee; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: "Microsoft JhengHei", "Noto Sans CJK TC", Arial, sans-serif; color: var(--ink); font-size: 10.2pt; line-height: 1.5; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+h1 { color: var(--heading); font-size: 16pt; line-height: 1.3; margin: 0 0 10px; padding: 0 0 9px; border-bottom: 2px solid var(--accent); }
+h2 { color: var(--heading); font-size: 12.5pt; line-height: 1.4; margin: 17px 0 9px; padding: 0 0 6px; border-bottom: 1px solid var(--line); break-after: avoid; }
+h3 { color: var(--heading); font-size: 10.8pt; line-height: 1.4; margin: 13px 0 7px; padding-left: 9px; border-left: 3px solid #78aaa6; break-after: avoid; }
+h4 { font-size: 10.2pt; margin: 10px 0 5px; break-after: avoid; }
+p { margin: 5px 0; orphans: 3; widows: 3; }
+hr { border: 0; border-top: 1px solid var(--line); margin: 15px 0; }
+strong { color: #244b59; }
+a { color: inherit; text-decoration-thickness: .5px; overflow-wrap: anywhere; }
+blockquote, .callout { margin: 11px 0; padding: 10px 13px; border: 1px solid #c9dfe0; border-left: 3px solid var(--accent); background: var(--paper-tint); border-radius: 4px; }
+blockquote p, .callout p { margin: 4px 0; }
+blockquote h3, .callout h3 { border: 0; padding: 0; margin: 0 0 6px; }
+.callout.warning { background: var(--warm); border-color: #e9d2ab; border-left-color: #ba8541; }
+.callout.warning strong { color: #885a23; }
+pre { margin: 10px 0; padding: 11px 13px; background: var(--paper-tint); border: 1px solid var(--line); border-radius: 4px; font-family: inherit; font-size: 9.5pt; line-height: 1.5; white-space: pre-wrap; overflow-wrap: anywhere; }
+pre code { background: none; padding: 0; font-family: inherit; color: inherit; }
+code { font-family: Consolas, "Microsoft JhengHei", monospace; font-size: .94em; padding: 1px 3px; background: #eef3f4; border-radius: 3px; }
+table { width: 100%; border-collapse: collapse; margin: 9px 0 13px; font-size: 9.2pt; line-height: 1.5; }
+thead { display: table-header-group; }
+tr { break-inside: avoid; }
+th, td { padding: 5px 8px; text-align: left; vertical-align: top; border: 1px solid var(--line); overflow-wrap: anywhere; }
+th { color: #fff; background: #315966; font-weight: bold; }
+th strong { color: inherit; }
+tbody tr:nth-child(even) { background: #f4f8f8; }
+ol, ul { margin: 6px 0 9px; padding-left: 23px; }
+li { margin: 3px 0 5px; orphans: 2; widows: 2; }
+img, svg { max-width: 100%; height: auto; }
+figure { margin: 12px 0; }
+figcaption { font-size: 9pt; color: #57717b; margin-top: 5px; }
+/* Opt-in visual components. Each card stays together; long groups may paginate. */
+.cards { display: flex; flex-wrap: wrap; gap: 10px; margin: 11px 0; }
+.card { flex: 1 1 45%; min-width: 0; padding: 10px 12px; border: 1px solid var(--line); border-top: 3px solid #78aaa6; border-radius: 4px; break-inside: avoid; }
+.card h3 { margin: 0 0 6px; border: 0; padding: 0; }
+.flow { display: flex; flex-wrap: wrap; align-items: stretch; gap: 8px; margin: 11px 0; }
+.flow-step { flex: 1 1 24%; min-width: 0; border: 1px solid var(--line); border-radius: 4px; padding: 9px 11px; background: var(--paper-tint); break-inside: avoid; }
+.flow-step strong { display: block; margin-bottom: 4px; }
+.flow-arrow { align-self: center; color: var(--accent); font-size: 14pt; }
+.example { display: flex; gap: 14px; justify-content: space-between; padding: 8px 0; border-bottom: 1px dashed var(--line); break-inside: avoid; }
+.example > :first-child { flex: 1; }
+.example .note { flex: 0 1 38%; font-size: 9pt; color: #57717b; }
+.keep-together { break-inside: avoid; }
+.page-break { break-before: page; }
+.homework-start { break-before: page; }
+/* An explicit break already starts Homework; do not create a second one. */
+.page-break + .homework-start { break-before: auto; }

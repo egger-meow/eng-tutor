@@ -2,6 +2,7 @@
 
 const fs = require('node:fs');
 const os = require('node:os');
+const { pathToFileURL } = require('node:url');
 const path = require('node:path');
 const { marked } = require('marked');
 const { chromium } = require('playwright');
@@ -30,37 +31,21 @@ if (!/^## Homework/m.test(markdown)) {
 
 const outputPath = sourcePath.replace(/\.md$/i, '.pdf');
 const title = markdown.match(/^#\s+(.+)$/m)?.[1] ?? 'Student Handout';
-const body = marked.parse(markdown);
+const escapeHtml = (value) => value.replace(/[&<>"']/g, (char) => ({
+  '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+}[char]));
+// Only Homework starts a new page automatically; preserve author page breaks.
+const body = marked.parse(markdown).replace(
+  /<h2>Homework([^<]*)<\/h2>/g,
+  '<h2 class="homework-start">Homework$1</h2>',
+);
+const css = fs.readFileSync(path.join(__dirname, 'student-pdf.css'), 'utf8');
 const html = `<!doctype html>
-<html lang="zh-Hant"><head><meta charset="utf-8"><title>${title}</title>
-<style>
-@page { size: A4; margin: 14mm 15mm 15mm; }
-* { box-sizing: border-box; }
-body { font-family: "Microsoft JhengHei", "Noto Sans CJK TC", Arial, sans-serif; color: #172033; font-size: 10.2pt; line-height: 1.48; }
-h1 { color: #173b69; font-size: 19pt; margin: 0 0 8px; padding-bottom: 6px; border-bottom: 2.5px solid #4f83bd; }
-h2 { color: #173b69; font-size: 13.5pt; margin: 16px 0 8px; padding: 5px 10px; border-left: 5px solid #4f83bd; background: #eef5fc; break-after: avoid; }
-h3 { color: #294e78; font-size: 11.5pt; margin: 12px 0 6px; break-after: avoid; }
-p { margin: 5px 0; }
-hr { border: 0; border-top: 1px solid #c8d5e3; margin: 14px 0; }
-blockquote { margin: 10px 0; padding: 10px 14px; border-left: 4px solid #4f83bd; background: #f4f8fc; border-radius: 0 6px 6px 0; }
-blockquote p { margin: 4px 0; }
-blockquote h3 { margin: 0 0 6px; }
-pre { margin: 10px 0; padding: 12px 15px; background: #f4f8fc; border: 1.5px solid #b8d0e8; border-radius: 6px; font-family: "Microsoft JhengHei", "Noto Sans CJK TC", Arial, sans-serif; font-size: 9.5pt; line-height: 1.5; white-space: pre-wrap; word-break: break-word; }
-pre code { background: none; padding: 0; font-family: inherit; color: inherit; }
-table { width: 100%; border-collapse: collapse; margin: 8px 0 12px; font-size: 9.2pt; }
-thead { display: table-header-group; }
-tr { break-inside: avoid; }
-th, td { border: 1px solid #9fb1c5; padding: 4px 8px; text-align: left; vertical-align: top; }
-th { color: #173b69; background: #dfeaf6; font-weight: bold; }
-ol, ul { margin: 5px 0 8px; padding-left: 22px; }
-li { margin: 3px 0 5px; }
-code { font-family: Consolas, monospace; font-size: .92em; padding: 1px 4px; background: #edf1f5; border-radius: 3px; }
-strong { color: #102d50; }
-h2:last-of-type { break-before: page; }
-.page-break { break-before: page; }
-</style></head><body>${body}</body></html>`;
+<html lang="zh-Hant"><head><meta charset="utf-8"><title>${escapeHtml(title)}</title>
+<style>${css}</style></head><body>${body}</body></html>`;
 
-const tempPath = path.join(os.tmpdir(), `eng-tutor-${process.pid}.html`);
+const tempDir = fs.mkdtempSync(path.join(os.tmpdir(), 'eng-tutor-'));
+const tempPath = path.join(tempDir, 'worksheet.html');
 fs.writeFileSync(tempPath, html, 'utf8');
 
 (async () => {
@@ -75,7 +60,8 @@ fs.writeFileSync(tempPath, html, 'utf8');
   const browser = await chromium.launch({ headless: true, executablePath });
   try {
     const page = await browser.newPage();
-    await page.goto(`file:///${tempPath.replace(/\\/g, '/')}`, { waitUntil: 'load' });
+    await page.goto(pathToFileURL(tempPath).href, { waitUntil: 'load' });
+    await page.evaluate(() => document.fonts.ready);
     await page.pdf({
       path: outputPath,
       format: 'A4',
@@ -83,16 +69,16 @@ fs.writeFileSync(tempPath, html, 'utf8');
       preferCSSPageSize: true,
       displayHeaderFooter: true,
       headerTemplate: '<div></div>',
-      footerTemplate: '<div style="width:100%;font-size:8px;color:#667;text-align:center"><span class="pageNumber"></span> / <span class="totalPages"></span></div>',
+      footerTemplate: '<div style="width:100%;font-size:8px;color:#57717b;text-align:center;letter-spacing:1px"><span class="pageNumber"></span> / <span class="totalPages"></span></div>',
       margin: { top: '14mm', right: '15mm', bottom: '16mm', left: '15mm' },
     });
     console.log(`Created ${outputPath}`);
   } finally {
     await browser.close();
-    fs.rmSync(tempPath, { force: true });
+    fs.rmSync(tempDir, { recursive: true, force: true });
   }
 })().catch((error) => {
-  fs.rmSync(tempPath, { force: true });
+  fs.rmSync(tempDir, { recursive: true, force: true });
   console.error(error.message);
   process.exit(1);
 });

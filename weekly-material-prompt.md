@@ -100,3 +100,8 @@ weekly/
     02-teacher-guide.md       (Markdown only)
     03-answer-key.md          (Markdown only)
 ```
+
+
+### PDF 排版元件
+
+沿用共用 PDF 產生器；不另做大標題封面。一般 Markdown 自動套用清楚的小標、表格與重點框。需要流程圖、對照卡或例句旁註時，參考 `docs/pdf-layout.md` 的可選 HTML 元件；只在有助理解時使用，仍遵守詞彙上限與作答留白要求。
