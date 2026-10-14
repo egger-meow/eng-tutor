@@ -83,3 +83,6 @@ node scripts/build-student-pdf.cjs weekly/week02/01-student-worksheet.md
 
 - **main branch 絕不 commit 任何學生真實姓名、聯絡方式或其他個資。**
 - 各學生分支僅在本機或私人環境使用，若要分享／備份到遠端，請確認遠端 repo 為私有（private）。
+
+
+PDF 樣式與可選圖解元件請見 [PDF 輸出與圖解](docs/pdf-layout.md)。共用樣式由 `scripts/student-pdf.css` 維護。
