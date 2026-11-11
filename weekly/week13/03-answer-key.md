@@ -9,14 +9,20 @@
 
 ## 文法
 
-1. **was**：2013，過去被動；單數。
+1. **was**：2013，過去被動；GTA V 是單數。
 2. **are**：these games 複數，every day 表示現在經常發生。
-3. **made**：was + p.p.；make/made/made。
-4. **This game was made by my brother.** 保留原句的過去時間觀點與動作者。
-5. **The game was released by the company in 2013.** 補 was，非只把 released 改成 releases。
-6. **has / was**：公司主動已完成發行，用 has released；遊戲受到發行動作，用 was released。題目限定 has/was，沒有要求從無時間提示推斷唯一被動時態。
+3. **were**：toy cars 複數，last year 表示過去。
+4. **written**：write/wrote/written；被動要 p.p.，不能接過去式 wrote。
+5. **This game was made by my brother.** 新主詞是 this game；made 的過去時間觀點保留。
+6. **These games are played by many people.** 新主詞 these games 複數，現在式用 are。
+7. **The game was not released in 2012.** wasn't 亦可；不能改成 didn't released。
+8. **Was the game released in 2013? Yes, it was.** be 前移，短答仍用 be。
+9. **The game was released by the company in 2013.** 原句缺少被動需要的 was。
+10. **This game was made by him.** by 後用受格。
+11. **has / was**：公司主動已完成發行，用 has released；遊戲接受動作，用 was released。題目限定 has/was，並非靠無時間提示判斷唯一被動時態。
+12. **He sleeps.** sleep 在這裡沒有接受動作的受詞，不能直接改成被動。另一句可改 **A game was made by him.**
 
 ## Homework
 
-1. **choice / release**。
-2. **This game was released in 2013.** 沒有交代動作者，不需要自行加 by。
+1. **choice / release / character / control / allow / expect / experience**；檢查能否回想意思與文章用法，不以抄寫代替回想。
+2. **These games were made by my brother.** 複數主詞用 were，make 的 p.p. 是 made。
